@@ -3,12 +3,12 @@
   "week": 7,
   "weekRange": "2026.05.25 – 05.31",
   "kpi": {
-    "crmTotal": 55,
-    "crmNewNote": "↑ 本周新增37人（飞书CRM同步）",
-    "activeInquiries": 5,
-    "inquiryDetail": "Rami L3 · Abdullh L2 · Caroline L2 · Carlos L2 · Sarath L2",
-    "countries": 18,
-    "countryNote": "↑ 新增10国",
+    "crmTotal": 89,
+    "crmNewNote": "↑ 本周新增34人（5.28 CRM同步）",
+    "activeInquiries": 6,
+    "inquiryDetail": "Rami L3 · Abdullh/Caroline/Qazi/Carlos/Sarath L2",
+    "countries": 23,
+    "countryNote": "↑ 新增5国（韩国/保加利亚/日本/阿根廷/伊朗）",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
     "websiteClicks": 58,
@@ -20,36 +20,52 @@
     "L5": 0,
     "L4": 0,
     "L3": 1,
-    "L2": 4,
-    "L1": 50,
+    "L2": 5,
+    "L1": 83,
     "L0": 0,
-    "total": 55,
+    "total": 89,
     "yearTarget": "30+",
     "q3Target": "≥1单"
   },
   "countries": [
     {
       "name": "🇸🇦 沙特",
-      "count": 12
-    },
-    {
-      "name": "🇮🇹 意大利",
-      "count": 8
-    },
-    {
-      "name": "🇦🇪 阿联酋",
-      "count": 5
+      "count": 16
     },
     {
       "name": "🇮🇳 印度",
-      "count": 5
+      "count": 11
     },
     {
-      "name": "🇺🇸 美国",
-      "count": 4
+      "name": "🇮🇹 意大利",
+      "count": 9
     },
     {
       "name": "🇹🇷 土耳其",
+      "count": 9
+    },
+    {
+      "name": "🇦🇪 阿联酋",
+      "count": 7
+    },
+    {
+      "name": "🇺🇸 美国",
+      "count": 6
+    },
+    {
+      "name": "🇬🇧 英国",
+      "count": 5
+    },
+    {
+      "name": "🇪🇬 埃及",
+      "count": 4
+    },
+    {
+      "name": "🇷🇴 罗马尼亚",
+      "count": 3
+    },
+    {
+      "name": "🇫🇷 法国",
       "count": 3
     },
     {
@@ -57,15 +73,7 @@
       "count": 2
     },
     {
-      "name": "🇬🇧 英国",
-      "count": 2
-    },
-    {
-      "name": "🇫🇷 法国",
-      "count": 2
-    },
-    {
-      "name": "🇪🇬 埃及",
+      "name": "🇧🇷 巴西",
       "count": 2
     },
     {
@@ -73,15 +81,19 @@
       "count": 2
     },
     {
-      "name": "🇧🇷 巴西",
+      "name": "🇲🇾 马来西亚",
       "count": 1
     },
     {
-      "name": "🇷🇴 罗马尼亚",
+      "name": "🇮🇷 伊朗",
       "count": 1
     },
     {
       "name": "🇳🇴 挪威",
+      "count": 1
+    },
+    {
+      "name": "🇰🇷 韩国",
       "count": 1
     },
     {
@@ -97,12 +109,20 @@
       "count": 1
     },
     {
-      "name": "🇵🇸 巴勒斯坦",
-      "count": 0
+      "name": "🇧🇬 保加利亚",
+      "count": 1
+    },
+    {
+      "name": "🇯🇵 日本",
+      "count": 1
+    },
+    {
+      "name": "🇦🇷 阿根廷",
+      "count": 1
     }
   ],
   "social": {
-    "linkedin": "4篇发布 · 公司页验证排队中",
+    "linkedin": "5篇发布 · 公司页验证排队中",
     "medium": "3篇已发布 · 最新：Fascial Closure 5/25",
     "youtube": "2条视频 · 最新：Sealing Cap 5/26",
     "website": "58次点击 · 🇺🇸为主 · 3页已收录 · Insights上线"
@@ -131,7 +151,7 @@
       1,
       10,
       18,
-      55
+      89
     ],
     "countries": [
       0,
@@ -140,7 +160,7 @@
       1,
       2,
       7,
-      18
+      23
     ],
     "geo": [
       0,
@@ -219,18 +239,18 @@
   "risks": [
     {
       "level": "red",
-      "title": "商标未注册 · 本周出现相似品牌",
+      "title": "商标未注册 · 已出现相似品牌",
       "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
     },
     {
       "level": "yellow",
       "title": "Rami（AL Salima）· OEM询盘 · L3",
-      "detail": "5/24已发产品介绍 · 等待回复 · 未计入营收"
+      "detail": "5/24已发产品介绍 · 等待回复 · 预期首年采购$200K-500K"
     },
     {
       "level": "yellow",
-      "title": "Caroline Chen（意大利）· 主动询盘 · L2",
-      "detail": "5/24已发单孔产品介绍 · 等待回复"
+      "title": "5个L2询盘待转化 · 沙特/意大利/印度/西班牙",
+      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath · 均等待回复"
     },
     {
       "level": "yellow",
