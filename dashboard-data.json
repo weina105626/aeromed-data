@@ -1,0 +1,84 @@
+{
+  "lastUpdated": "2026-05-28",
+  "week": 7,
+  "weekRange": "2026.05.25 – 05.31",
+  "kpi": {
+    "crmTotal": 18,
+    "crmNewNote": "本周新增0人",
+    "activeInquiries": 2,
+    "inquiryDetail": "Rami L3 · Caroline L2",
+    "countries": 7,
+    "countryNote": "本周新增0国",
+    "geoArticles": 2,
+    "geoNote": "TaTME + 密封盖",
+    "websiteClicks": 58,
+    "clickNote": "🇺🇸 美国为主要来源",
+    "signedOrders": 0,
+    "orderNote": "暂无合同"
+  },
+  "funnel": {
+    "L5": 0, "L4": 0, "L3": 1, "L2": 2, "L1": 15, "L0": 0,
+    "total": 18,
+    "yearTarget": 30,
+    "q3Target": "≥1单"
+  },
+  "countries": [
+    {"name": "🇸🇦 沙特阿拉伯", "count": 9},
+    {"name": "🇮🇹 意大利 ★主动询盘", "count": 2},
+    {"name": "🇦🇪 阿联酋", "count": 2},
+    {"name": "🇹🇷 土耳其", "count": 2},
+    {"name": "🇪🇸 西班牙", "count": 1},
+    {"name": "🇧🇷 巴西", "count": 1},
+    {"name": "🇪🇬 埃及", "count": 1}
+  ],
+  "social": {
+    "linkedin": "每日开发中 · 公司页：验证排队中",
+    "medium": "2篇已发布 · TaTME + 密封盖",
+    "youtube": "1条视频已上线 · 工厂参观 · 5/20",
+    "website": "58次点击 · 🇺🇸为主 · 3页已收录 · Insights上线"
+  },
+  "aiCitation": {
+    "perplexity": "0/5",
+    "chatgpt": "0/5",
+    "gemini": "0/5",
+    "status": "已发2篇GEO文章 · 网页策略启动中",
+    "forecast": "预计首次引用：发布后6–8周"
+  },
+  "trend": {
+    "labels": ["第1周","第2周","第3周","第4周","第5周","第6周","第7周"],
+    "crm": [0,0,0,1,10,18,18],
+    "countries": [0,0,0,1,2,7,7],
+    "geo": [0,0,0,0,1,2,2],
+    "clicks": [0,0,0,0,0,58,58]
+  },
+  "milestones": [
+    {"name": "官网上线 · 9个核心页面 · CE/MDR合规", "status": "done"},
+    {"name": "产品目录V3.0 · 72张产品图 · 自主完成", "status": "done"},
+    {"name": "HTKD OEM能力矩阵V1.2 · 5/19", "status": "done"},
+    {"name": "YouTube工厂视频第1条 · 5/20", "status": "done"},
+    {"name": "GEO文章第2篇 · 密封盖 · Medium+LinkedIn", "status": "done"},
+    {"name": "Insights第3篇草稿", "status": "part"},
+    {"name": "首单签约目标：2026年Q3", "status": "warn"},
+    {"name": "GEO文章 ≥25篇", "status": "pend", "progress": "2/25"},
+    {"name": "AI Agent Level 1 · 自动生成+发布文章", "status": "pend"},
+    {"name": "商标注册 · 紧急", "status": "warn"}
+  ],
+  "risks": [
+    {"level": "red", "title": "商标未注册 · 本周出现相似品牌", "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"},
+    {"level": "yellow", "title": "Rami（AL Salima）· OEM询盘 · L3", "detail": "5/24已发产品介绍 · 等待回复 · 未计入营收"},
+    {"level": "yellow", "title": "Caroline Chen（意大利）· 主动询盘 · L2", "detail": "5/24已发单孔产品介绍 · 等待回复"},
+    {"level": "yellow", "title": "LinkedIn公司页 · 验证排队中", "detail": "不影响客户开发 · 个人号正常使用"},
+    {"level": "green", "title": "官网SSL + CE/MDR合规 + 域名 · 正常", "detail": "持续进行小BUG修复与内容优化 · 无重大问题"}
+  ],
+  "investment": {
+    "items": [
+      {"name": "4月 AI工具（Claude + Perplexity）", "amount": "¥233"},
+      {"name": "5月 AI工具（含超量使用）", "amount": "¥1,030"},
+      {"name": "域名 aeromedsurgical.com", "amount": "¥260"},
+      {"name": "SiteGround托管", "amount": "已含"},
+      {"name": "目录/拍照/建站", "amount": "¥0 · 自主完成"}
+    ],
+    "total": "¥1,523",
+    "revenue": "¥0 · 暂无签约订单"
+  }
+}
