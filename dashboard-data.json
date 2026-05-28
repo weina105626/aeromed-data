@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-28",
+  "lastUpdated": "2026-05-29",
   "week": 7,
   "weekRange": "2026.05.25 – 05.31",
   "kpi": {
-    "crmTotal": 89,
-    "crmNewNote": "↑ 本周新增34人（5.28 CRM同步）",
-    "activeInquiries": 6,
-    "inquiryDetail": "Rami L3 · Abdullh/Caroline/Qazi/Carlos/Sarath L2",
-    "countries": 23,
-    "countryNote": "↑ 新增5国（韩国/保加利亚/日本/阿根廷/伊朗）",
+    "crmTotal": 74,
+    "crmNewNote": "📉 今日同步74人（昨日89人，已同步清理）",
+    "activeInquiries": 7,
+    "inquiryDetail": "Rami L3 · Caroline/Abdullh/Dr.Qazi/Dr.Carlos/Sarath L2",
+    "countries": 20,
+    "countryNote": "↓ 今日同步20国（待Winnie核实更新）",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
     "websiteClicks": 58,
@@ -20,40 +20,36 @@
     "L5": 0,
     "L4": 0,
     "L3": 1,
-    "L2": 5,
-    "L1": 83,
+    "L2": 6,
+    "L1": 68,
     "L0": 0,
-    "total": 89,
+    "total": 74,
     "yearTarget": "30+",
     "q3Target": "≥1单"
   },
   "countries": [
     {
       "name": "🇸🇦 沙特",
-      "count": 16
-    },
-    {
-      "name": "🇮🇳 印度",
-      "count": 11
+      "count": 14
     },
     {
       "name": "🇮🇹 意大利",
-      "count": 9
+      "count": 8
     },
     {
       "name": "🇹🇷 土耳其",
-      "count": 9
+      "count": 8
     },
     {
-      "name": "🇦🇪 阿联酋",
+      "name": "🇮🇳 印度",
       "count": 7
     },
     {
-      "name": "🇺🇸 美国",
+      "name": "🇦🇪 阿联酋",
       "count": 6
     },
     {
-      "name": "🇬🇧 英国",
+      "name": "🇺🇸 美国",
       "count": 5
     },
     {
@@ -61,8 +57,8 @@
       "count": 4
     },
     {
-      "name": "🇷🇴 罗马尼亚",
-      "count": 3
+      "name": "🇬🇧 英国",
+      "count": 4
     },
     {
       "name": "🇫🇷 法国",
@@ -74,6 +70,10 @@
     },
     {
       "name": "🇧🇷 巴西",
+      "count": 2
+    },
+    {
+      "name": "🇷🇴 罗马尼亚",
       "count": 2
     },
     {
@@ -107,24 +107,12 @@
     {
       "name": "🇧🇪 比利时",
       "count": 1
-    },
-    {
-      "name": "🇧🇬 保加利亚",
-      "count": 1
-    },
-    {
-      "name": "🇯🇵 日本",
-      "count": 1
-    },
-    {
-      "name": "🇦🇷 阿根廷",
-      "count": 1
     }
   ],
   "social": {
-    "linkedin": "5篇发布 · 公司页验证排队中",
+    "linkedin": "5篇已发布 + 1待发 · 公司页验证排队中",
     "medium": "3篇已发布 · 最新：Fascial Closure 5/25",
-    "youtube": "2条视频 · 最新：Sealing Cap 5/26",
+    "youtube": "2篇已发布 · 1篇待发(5/29文3视频)",
     "website": "58次点击 · 🇺🇸为主 · 3页已收录 · Insights上线"
   },
   "aiCitation": {
@@ -151,7 +139,7 @@
       1,
       10,
       18,
-      89
+      74
     ],
     "countries": [
       0,
@@ -160,7 +148,7 @@
       1,
       2,
       7,
-      23
+      20
     ],
     "geo": [
       0,
