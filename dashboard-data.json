@@ -9,8 +9,8 @@
     "inquiryDetail": "Rami L3 · Abdullh L2 · Caroline L2 · Carlos L2 · Sarath L2",
     "countries": 18,
     "countryNote": "↑ 新增10国",
-    "geoArticles": 2,
-    "geoNote": "TaTME + 密封盖",
+    "geoArticles": 3,
+    "geoNote": "TaTME + Sealing Cap + Fascial Closure",
     "websiteClicks": 58,
     "clickNote": "🇺🇸 美国为主要来源",
     "signedOrders": 0,
@@ -24,7 +24,7 @@
     "L1": 50,
     "L0": 0,
     "total": 55,
-    "yearTarget": 30,
+    "yearTarget": "30+",
     "q3Target": "≥1单"
   },
   "countries": [
@@ -102,16 +102,16 @@
     }
   ],
   "social": {
-    "linkedin": "每日开发中 · 公司页：验证排队中",
-    "medium": "2篇已发布 · TaTME + 密封盖",
-    "youtube": "1条视频已上线 · 工厂参观 · 5/20",
+    "linkedin": "4篇发布 · 公司页验证排队中",
+    "medium": "3篇已发布 · 最新：Fascial Closure 5/25",
+    "youtube": "2条视频 · 最新：Sealing Cap 5/26",
     "website": "58次点击 · 🇺🇸为主 · 3页已收录 · Insights上线"
   },
   "aiCitation": {
     "perplexity": "0/5",
     "chatgpt": "0/5",
     "gemini": "0/5",
-    "status": "已发2篇GEO文章 · 网页策略启动中",
+    "status": "已发3篇GEO文章 · 网页策略启动中",
     "forecast": "预计首次引用：发布后6–8周"
   },
   "trend": {
@@ -149,7 +149,7 @@
       0,
       1,
       2,
-      2
+      3
     ],
     "clicks": [
       0,
@@ -179,7 +179,15 @@
       "status": "done"
     },
     {
-      "name": "GEO文章第2篇 · 密封盖 · Medium+LinkedIn",
+      "name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn",
+      "status": "done"
+    },
+    {
+      "name": "GEO文章第3篇 · Fascial Closure · Medium 5/25",
+      "status": "done"
+    },
+    {
+      "name": "YouTube视频第2条 · Sealing Cap · 5/26",
       "status": "done"
     },
     {
@@ -193,7 +201,7 @@
     {
       "name": "GEO文章 ≥25篇",
       "status": "pend",
-      "progress": "2/25"
+      "progress": "3/25"
     },
     {
       "name": "AI Agent Level 1 · 自动生成+发布文章",
