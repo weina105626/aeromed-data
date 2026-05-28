@@ -191,8 +191,12 @@
       "status": "done"
     },
     {
-      "name": "Insights第3篇草稿",
-      "status": "part"
+      "name": "Dashboard自动化 · GitHub JSON方案 · 5/28",
+      "status": "done"
+    },
+    {
+      "name": "飞书CRM迁移+每日自动同步 · 5/28",
+      "status": "done"
     },
     {
       "name": "首单签约目标：2026年Q3",
@@ -264,5 +268,41 @@
     ],
     "total": "¥1,523",
     "revenue": "¥0 · 暂无签约订单"
+  },
+  "deliverables": [
+    "官网9页 + Insights模块上线",
+    "CE/MDR合规全站更新",
+    "产品基准卡V1.5.3",
+    "OEM能力矩阵V1.2",
+    "GEO关键词矩阵V2.1 · 48个关键词",
+    "产品图库 · 72张 · 自主拍摄",
+    "产品目录V3.0 · 自主设计",
+    "CRM · 55位客户 · 18国",
+    "YouTube工厂视频第1条",
+    "YouTube视频第2条 · Sealing Cap",
+    "GEO第3篇文章 · Fascial Closure · Medium已发",
+    "内部看板 + 演示看板上线（自动版）"
+  ],
+  "events": {
+    "thisWeek": [
+      "CRM 18→55人 · 飞书CRM迁移完成 · Dashboard自动同步上线",
+      "GEO第3篇Fascial Closure文章 · Medium 5/25已发",
+      "LinkedIn发文2 · Sealing Cap 5/28已发",
+      "YouTube视频第2条 · Sealing Cap 5/26已发布",
+      "月度AI可见度对比完成 · 0/45 · 基线稳定",
+      "Dashboard自动化落地 · GitHub JSON方案"
+    ],
+    "nextWeek": [
+      "5/29(周五)：YouTube发文3视频 · Fascial Closure",
+      "6/1(周一)：Medium+Insights发文4",
+      "6/2(周二)：LinkedIn发文3视频",
+      "6/3(周三)：AI可见度周报+选题推荐 → 飞书推送",
+      "6/4(周四)：LinkedIn发文4摘要",
+      "6/4(周四)：撰写文5草稿+视频脚本"
+    ],
+    "bossDecisions": [
+      "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
+      "沙特SFDA注册路径：Rami询盘进入合同阶段时需确认AL Salima持证 vs HTKD自己申请"
+    ]
   }
 }
