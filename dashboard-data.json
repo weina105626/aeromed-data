@@ -3,11 +3,11 @@
   "week": 7,
   "weekRange": "2026.05.25 – 05.31",
   "kpi": {
-    "crmTotal": 74,
+    "crmTotal": 89,
     "crmNewNote": "📉 今日同步74人（昨日89人，已同步清理）",
-    "activeInquiries": 7,
+    "activeInquiries": 6,
     "inquiryDetail": "Rami L3 · Caroline/Abdullh/Dr.Qazi/Dr.Carlos/Sarath L2",
-    "countries": 20,
+    "countries": 23,
     "countryNote": "↓ 今日同步20国（待Winnie核实更新）",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
@@ -20,10 +20,10 @@
     "L5": 0,
     "L4": 0,
     "L3": 1,
-    "L2": 6,
-    "L1": 68,
+    "L2": 5,
+    "L1": 83,
     "L0": 0,
-    "total": 74,
+    "total": 89,
     "yearTarget": "30+",
     "q3Target": "≥1单"
   },
@@ -141,15 +141,7 @@
       18,
       74
     ],
-    "countries": [
-      0,
-      0,
-      0,
-      1,
-      2,
-      7,
-      20
-    ],
+    "countries": 23,
     "geo": [
       0,
       0,
