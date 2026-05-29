@@ -3,11 +3,11 @@
   "week": 8,
   "weekRange": "2026.06.01 – 06.07",
   "kpi": {
-    "crmTotal": 89,
+    "crmTotal": 107,
     "crmNewNote": "📊 今日同步89人（无变化）",
     "activeInquiries": 6,
     "inquiryDetail": "Rami L3 · Caroline/Abdullh/Dr.Qazi/Dr.Carlos/Sarath L2",
-    "countries": 20,
+    "countries": 26,
     "countryNote": "📊 20个国家",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
@@ -21,33 +21,118 @@
     "L4": 0,
     "L3": 1,
     "L2": 5,
-    "L1": 83,
+    "L1": 101,
     "L0": 0,
     "total": 89,
     "yearTarget": "30+",
-    "q3Target": "≥1单"
+    "q3Target": "≥1单",
+    "❄️": 0
   },
   "countries": [
-    {"name": "🇸🇦 沙特", "count": 14},
-    {"name": "🇮🇹 意大利", "count": 8},
-    {"name": "🇹🇷 土耳其", "count": 8},
-    {"name": "🇮🇳 印度", "count": 7},
-    {"name": "🇦🇪 阿联酋", "count": 6},
-    {"name": "🇺🇸 美国", "count": 5},
-    {"name": "🇪🇬 埃及", "count": 4},
-    {"name": "🇬🇧 英国", "count": 4},
-    {"name": "🇫🇷 法国", "count": 3},
-    {"name": "🇪🇸 西班牙", "count": 2},
-    {"name": "🇧🇷 巴西", "count": 2},
-    {"name": "🇷🇴 罗马尼亚", "count": 2},
-    {"name": "🇲🇦 摩洛哥", "count": 2},
-    {"name": "🇲🇾 马来西亚", "count": 1},
-    {"name": "🇮🇷 伊朗", "count": 1},
-    {"name": "🇳🇴 挪威", "count": 1},
-    {"name": "🇰🇷 韩国", "count": 1},
-    {"name": "🇵🇰 巴基斯坦", "count": 1},
-    {"name": "🇨🇭 瑞士", "count": 1},
-    {"name": "🇧🇪 比利时", "count": 1}
+    {
+      "name": "🇸🇦 沙特",
+      "count": 22
+    },
+    {
+      "name": "🇮🇳 印度",
+      "count": 11
+    },
+    {
+      "name": "🇮🇹 意大利",
+      "count": 10
+    },
+    {
+      "name": "🇹🇷 土耳其",
+      "count": 10
+    },
+    {
+      "name": "🇦🇪 阿联酋",
+      "count": 8
+    },
+    {
+      "name": "🇺🇸 美国",
+      "count": 6
+    },
+    {
+      "name": "🇪🇸 西班牙",
+      "count": 5
+    },
+    {
+      "name": "🇬🇧 英国",
+      "count": 5
+    },
+    {
+      "name": "🇪🇬 埃及",
+      "count": 4
+    },
+    {
+      "name": "🇫🇷 法国",
+      "count": 4
+    },
+    {
+      "name": "🇷🇴 罗马尼亚",
+      "count": 3
+    },
+    {
+      "name": "🇧🇷 巴西",
+      "count": 2
+    },
+    {
+      "name": "🇳🇴 挪威",
+      "count": 2
+    },
+    {
+      "name": "🇲🇦 摩洛哥",
+      "count": 2
+    },
+    {
+      "name": "🇯🇵 日本",
+      "count": 2
+    },
+    {
+      "name": "🇲🇾 马来西亚",
+      "count": 1
+    },
+    {
+      "name": "🇮🇷 伊朗",
+      "count": 1
+    },
+    {
+      "name": "🇰🇷 韩国",
+      "count": 1
+    },
+    {
+      "name": "🇵🇰 巴基斯坦",
+      "count": 1
+    },
+    {
+      "name": "🇨🇭 瑞士",
+      "count": 1
+    },
+    {
+      "name": "🇧🇪 比利时",
+      "count": 1
+    },
+    {
+      "name": "🇧🇬 保加利亚",
+      "count": 1
+    },
+    {
+      "name": "🇦🇷 阿根廷",
+      "count": 1
+    },
+    {
+      "name": "🇨🇦 加拿大",
+      "count": 1
+    },
+    {
+      "name": "🇰🇿 哈萨克斯坦",
+      "count": 1
+    },
+    {
+      "name": "🇩🇪 德国",
+      "count": 1
+    }
   ],
   "social": {
     "linkedin": "5篇已发布 + 1待发 · 公司页验证排队中",
@@ -63,41 +148,152 @@
     "forecast": "预计首次引用：发布后6–8周"
   },
   "trend": {
-    "labels": ["第1周","第2周","第3周","第4周","第5周","第6周","第7周","第8周"],
-    "crm": [0, 0, 0, 1, 10, 18, 74, 89],
+    "labels": [
+      "第1周",
+      "第2周",
+      "第3周",
+      "第4周",
+      "第5周",
+      "第6周",
+      "第7周",
+      "第8周"
+    ],
+    "crm": [
+      0,
+      0,
+      0,
+      1,
+      10,
+      18,
+      74,
+      89
+    ],
     "countries": 20,
-    "geo": [0, 0, 0, 0, 1, 2, 3, 3],
-    "clicks": [0, 0, 0, 0, 0, 58, 58, 58]
+    "geo": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      3,
+      3
+    ],
+    "clicks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      58,
+      58,
+      58
+    ]
   },
   "milestones": [
-    {"name": "官网上线 · 9个核心页面 · CE/MDR合规", "status": "done"},
-    {"name": "产品目录V3.0 · 72张产品图 · 自主完成", "status": "done"},
-    {"name": "HTKD OEM能力矩阵V1.2 · 5/19", "status": "done"},
-    {"name": "YouTube工厂视频第1条 · 5/20", "status": "done"},
-    {"name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn", "status": "done"},
-    {"name": "GEO文章第3篇 · Fascial Closure · Medium 5/25", "status": "done"},
-    {"name": "YouTube视频第2条 · Sealing Cap · 5/26", "status": "done"},
-    {"name": "Dashboard自动化 · GitHub JSON方案 · 5/28", "status": "done"},
-    {"name": "飞书CRM迁移+每日自动同步 · 5/28", "status": "done"},
-    {"name": "首单签约目标：2026年Q3", "status": "warn"},
-    {"name": "GEO文章 ≥25篇", "status": "pend", "progress": "3/25"},
-    {"name": "AI Agent Level 1 · 自动生成+发布文章", "status": "pend"},
-    {"name": "商标注册 · 紧急", "status": "warn"}
+    {
+      "name": "官网上线 · 9个核心页面 · CE/MDR合规",
+      "status": "done"
+    },
+    {
+      "name": "产品目录V3.0 · 72张产品图 · 自主完成",
+      "status": "done"
+    },
+    {
+      "name": "HTKD OEM能力矩阵V1.2 · 5/19",
+      "status": "done"
+    },
+    {
+      "name": "YouTube工厂视频第1条 · 5/20",
+      "status": "done"
+    },
+    {
+      "name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn",
+      "status": "done"
+    },
+    {
+      "name": "GEO文章第3篇 · Fascial Closure · Medium 5/25",
+      "status": "done"
+    },
+    {
+      "name": "YouTube视频第2条 · Sealing Cap · 5/26",
+      "status": "done"
+    },
+    {
+      "name": "Dashboard自动化 · GitHub JSON方案 · 5/28",
+      "status": "done"
+    },
+    {
+      "name": "飞书CRM迁移+每日自动同步 · 5/28",
+      "status": "done"
+    },
+    {
+      "name": "首单签约目标：2026年Q3",
+      "status": "warn"
+    },
+    {
+      "name": "GEO文章 ≥25篇",
+      "status": "pend",
+      "progress": "3/25"
+    },
+    {
+      "name": "AI Agent Level 1 · 自动生成+发布文章",
+      "status": "pend"
+    },
+    {
+      "name": "商标注册 · 紧急",
+      "status": "warn"
+    }
   ],
   "risks": [
-    {"level": "red", "title": "商标未注册 · 已出现相似品牌", "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"},
-    {"level": "yellow", "title": "Rami（AL Salima）· OEM询盘 · L3", "detail": "5/24已发产品介绍 · 等待回复 · 预期首年采购$200K-500K"},
-    {"level": "yellow", "title": "5个L2询盘待转化 · 沙特/意大利/印度/西班牙", "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath · 均等待回复"},
-    {"level": "yellow", "title": "LinkedIn公司页 · 验证排队中", "detail": "不影响客户开发 · 个人号正常使用"},
-    {"level": "green", "title": "官网SSL + CE/MDR合规 + 域名 · 正常", "detail": "持续进行小BUG修复与内容优化 · 无重大问题"}
+    {
+      "level": "red",
+      "title": "商标未注册 · 已出现相似品牌",
+      "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
+    },
+    {
+      "level": "yellow",
+      "title": "Rami（AL Salima）· OEM询盘 · L3",
+      "detail": "5/24已发产品介绍 · 等待回复 · 预期首年采购$200K-500K"
+    },
+    {
+      "level": "yellow",
+      "title": "5个L2询盘待转化 · 沙特/意大利/印度/西班牙",
+      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath · 均等待回复"
+    },
+    {
+      "level": "yellow",
+      "title": "LinkedIn公司页 · 验证排队中",
+      "detail": "不影响客户开发 · 个人号正常使用"
+    },
+    {
+      "level": "green",
+      "title": "官网SSL + CE/MDR合规 + 域名 · 正常",
+      "detail": "持续进行小BUG修复与内容优化 · 无重大问题"
+    }
   ],
   "investment": {
     "items": [
-      {"name": "4月 AI工具（Claude + Perplexity）", "amount": "¥233"},
-      {"name": "5月 AI工具（含超量使用）", "amount": "¥1,030"},
-      {"name": "域名 aeromedsurgical.com", "amount": "¥260"},
-      {"name": "SiteGround托管", "amount": "已含"},
-      {"name": "目录/拍照/建站", "amount": "¥0 · 自主完成"}
+      {
+        "name": "4月 AI工具（Claude + Perplexity）",
+        "amount": "¥233"
+      },
+      {
+        "name": "5月 AI工具（含超量使用）",
+        "amount": "¥1,030"
+      },
+      {
+        "name": "域名 aeromedsurgical.com",
+        "amount": "¥260"
+      },
+      {
+        "name": "SiteGround托管",
+        "amount": "已含"
+      },
+      {
+        "name": "目录/拍照/建站",
+        "amount": "¥0 · 自主完成"
+      }
     ],
     "total": "¥1,523",
     "revenue": "¥0 · 暂无签约订单"
