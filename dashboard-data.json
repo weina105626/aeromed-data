@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-30",
-  "week": 8,
+  "lastUpdated": "2026-05-31",
+  "week": 9,
   "weekRange": "2026.06.01 – 06.07",
   "kpi": {
     "crmTotal": 107,
-    "crmNewNote": "📊 今日同步89人（无变化）",
+    "crmNewNote": "📊 今日同步107人（+18）",
     "activeInquiries": 6,
-    "inquiryDetail": "Rami L3 · Caroline/Abdullh/Dr.Qazi/Dr.Carlos/Sarath L2",
+    "inquiryDetail": "Rami L3 · Abdullh Altawili L2 · Caroline Chen L2 · Qazi Aamir Suhail L2 · Carlos Perez Berdasco L2 · Dr. Sarath Kumar Avula L2",
     "countries": 26,
-    "countryNote": "📊 20个国家",
+    "countryNote": "📊 26个国家",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
     "websiteClicks": 58,
@@ -23,7 +23,7 @@
     "L2": 5,
     "L1": 101,
     "L0": 0,
-    "total": 89,
+    "total": 107,
     "yearTarget": "30+",
     "q3Target": "≥1单",
     "❄️": 0
@@ -156,7 +156,8 @@
       "第5周",
       "第6周",
       "第7周",
-      "第8周"
+      "第8周",
+      "第9周"
     ],
     "crm": [
       0,
@@ -166,9 +167,10 @@
       10,
       18,
       74,
-      89
+      89,
+      107
     ],
-    "countries": 20,
+    "countries": 26,
     "geo": [
       0,
       0,
@@ -176,6 +178,7 @@
       0,
       1,
       2,
+      3,
       3,
       3
     ],
@@ -185,6 +188,7 @@
       0,
       0,
       0,
+      58,
       58,
       58,
       58
