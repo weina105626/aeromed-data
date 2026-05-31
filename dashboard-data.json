@@ -1,45 +1,46 @@
 {
   "lastUpdated": "2026-05-31",
   "week": 9,
-  "weekRange": "2026.06.01 – 06.07",
+  "weekRange": "2026.05.25 – 05.31",
   "kpi": {
-    "crmTotal": 107,
-    "crmNewNote": "📊 今日同步107人（+18）",
+    "crmTotal": 112,
+    "crmNewNote": "📊 本周爆发式增长：18→112（+94，+522%）",
     "activeInquiries": 6,
-    "inquiryDetail": "Rami L3 · Abdullh Altawili L2 · Caroline Chen L2 · Qazi Aamir Suhail L2 · Carlos Perez Berdasco L2 · Dr. Sarath Kumar Avula L2",
+    "inquiryDetail": "Rami L3(OEM询盘) · Altawili L2 · Caroline Chen L2(招标) · Carlos Perez L2 · Qazi Aamir L2 · Dr.Avula L2",
     "countries": 26,
-    "countryNote": "📊 26个国家",
+    "countryNote": "📊 26国，本周新增🇰🇷🇵🇰🇨🇭🇧🇪🇧🇬🇦🇷🇨🇦🇰🇿🇲🇦🇯🇵",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
     "websiteClicks": 58,
     "clickNote": "🇺🇸 美国为主要来源",
     "signedOrders": 0,
-    "orderNote": "暂无合同"
+    "orderNote": "0单，6个L2+询盘推进中"
   },
   "funnel": {
     "L5": 0,
     "L4": 0,
     "L3": 1,
     "L2": 5,
-    "L1": 101,
+    "L1": 106,
     "L0": 0,
-    "total": 107,
+    "total": 112,
     "yearTarget": "30+",
     "q3Target": "≥1单",
-    "❄️": 0
+    "❄️": 0,
+    "conversionRate": "L2+转化率5.4%"
   },
   "countries": [
     {
       "name": "🇸🇦 沙特",
-      "count": 22
+      "count": 26
+    },
+    {
+      "name": "🇮🇹 意大利",
+      "count": 12
     },
     {
       "name": "🇮🇳 印度",
       "count": 11
-    },
-    {
-      "name": "🇮🇹 意大利",
-      "count": 10
     },
     {
       "name": "🇹🇷 土耳其",
@@ -54,6 +55,10 @@
       "count": 6
     },
     {
+      "name": "🇪🇬 埃及",
+      "count": 6
+    },
+    {
       "name": "🇪🇸 西班牙",
       "count": 5
     },
@@ -62,12 +67,12 @@
       "count": 5
     },
     {
-      "name": "🇪🇬 埃及",
+      "name": "🇫🇷 法国",
       "count": 4
     },
     {
-      "name": "🇫🇷 法国",
-      "count": 4
+      "name": "🇩🇪 德国",
+      "count": 3
     },
     {
       "name": "🇷🇴 罗马尼亚",
@@ -128,10 +133,6 @@
     {
       "name": "🇰🇿 哈萨克斯坦",
       "count": 1
-    },
-    {
-      "name": "🇩🇪 德国",
-      "count": 1
     }
   ],
   "social": {
@@ -168,7 +169,7 @@
       18,
       74,
       89,
-      107
+      112
     ],
     "countries": 26,
     "geo": [
@@ -336,5 +337,23 @@
       "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
       "沙特SFDA注册路径：Rami询盘进入合同阶段时需确认AL Salima持证 vs HTKD自己申请"
     ]
+  },
+  "agentWork": {
+    "week": "2026.05.25-05.31",
+    "productLearning": "7天×4产品线学习完成，5条新认知，0认知错位",
+    "dealerDev": "5/29启动，本周为产品学习周，6/2起正式执行5国轮换",
+    "contentProduction": "3篇GEO文章+2条YouTube视频已发布，6/2起4天发布节奏",
+    "intelligence": "7天行业情报监测，EUDAMED强制生效为最高优先级",
+    "crmSync": "每日00:00飞书CRM→Dashboard同步，数据准确",
+    "inquiryWorkflow": "询盘工作流V1.0已设计，6/2上线测试",
+    "oemMaterials": "OEM Capability Catalog V1.1 + Qualification Matrix V1.2 + Application Form V3 + Partnership Roadmap V2.0 已归档",
+    "ceCertificates": "3份CE证书已归档（G15/CL0008/CL0009）",
+    "srnConfirmed": "CN-MF-000027757 已确认（G15证书验证）"
+  },
+  "risk": {
+    "overdueFollowups": 13,
+    "criticalOverdue": "Abdullh Altawili(L2)超6天，Mohammad Hamoud alanazi(L1)超8天",
+    "eudamed": "🔴 5/28强制生效，需确认HTKD EUDAMED注册+UDI录入状态",
+    "lowConversion": "L2+转化率仅5.4%，111个L1需快速筛选推进"
   }
 }
