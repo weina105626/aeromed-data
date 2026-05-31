@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-31",
-  "week": 9,
-  "weekRange": "2026.05.25 – 05.31",
+  "lastUpdated": "2026-06-01",
+  "week": 10,
+  "weekRange": "2026.06.01 – 06.07",
   "kpi": {
-    "crmTotal": 112,
-    "crmNewNote": "📊 本周爆发式增长：18→112（+94，+522%）",
+    "crmTotal": 107,
+    "crmNewNote": "📊 本周新增58人，累计107人",
     "activeInquiries": 6,
-    "inquiryDetail": "Rami L3(OEM询盘) · Altawili L2 · Caroline Chen L2(招标) · Carlos Perez L2 · Qazi Aamir L2 · Dr.Avula L2",
+    "inquiryDetail": "Rami L3(OEM询盘) · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2",
     "countries": 26,
-    "countryNote": "📊 26国，本周新增🇰🇷🇵🇰🇨🇭🇧🇪🇧🇬🇦🇷🇨🇦🇰🇿🇲🇦🇯🇵",
+    "countryNote": "📊 26国，欧盟+中东+亚洲覆盖",
     "geoArticles": 3,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure",
     "websiteClicks": 58,
@@ -21,9 +21,9 @@
     "L4": 0,
     "L3": 1,
     "L2": 5,
-    "L1": 106,
+    "L1": 101,
     "L0": 0,
-    "total": 112,
+    "total": 107,
     "yearTarget": "30+",
     "q3Target": "≥1单",
     "❄️": 0,
@@ -32,15 +32,15 @@
   "countries": [
     {
       "name": "🇸🇦 沙特",
-      "count": 26
-    },
-    {
-      "name": "🇮🇹 意大利",
-      "count": 12
+      "count": 22
     },
     {
       "name": "🇮🇳 印度",
       "count": 11
+    },
+    {
+      "name": "🇮🇹 意大利",
+      "count": 10
     },
     {
       "name": "🇹🇷 土耳其",
@@ -55,10 +55,6 @@
       "count": 6
     },
     {
-      "name": "🇪🇬 埃及",
-      "count": 6
-    },
-    {
       "name": "🇪🇸 西班牙",
       "count": 5
     },
@@ -67,12 +63,12 @@
       "count": 5
     },
     {
-      "name": "🇫🇷 法国",
+      "name": "🇪🇬 埃及",
       "count": 4
     },
     {
-      "name": "🇩🇪 德国",
-      "count": 3
+      "name": "🇫🇷 法国",
+      "count": 4
     },
     {
       "name": "🇷🇴 罗马尼亚",
@@ -133,6 +129,10 @@
     {
       "name": "🇰🇿 哈萨克斯坦",
       "count": 1
+    },
+    {
+      "name": "🇩🇪 德国",
+      "count": 1
     }
   ],
   "social": {
@@ -158,7 +158,8 @@
       "第6周",
       "第7周",
       "第8周",
-      "第9周"
+      "第9周",
+      "第10周"
     ],
     "crm": [
       0,
@@ -169,7 +170,8 @@
       18,
       74,
       89,
-      112
+      112,
+      107
     ],
     "countries": 26,
     "geo": [
@@ -181,6 +183,7 @@
       2,
       3,
       3,
+      3,
       3
     ],
     "clicks": [
@@ -189,6 +192,7 @@
       0,
       0,
       0,
+      58,
       58,
       58,
       58,
