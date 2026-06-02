@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-02",
+  "lastUpdated": "2026-06-03",
   "week": 11,
-  "weekRange": "2026.06.02 – 06.08",
+  "weekRange": "2026.06.03 – 06.09",
   "kpi": {
     "crmTotal": 100,
-    "crmNewNote": "📊 稳定在100人（清洗后去重）",
+    "crmNewNote": "📊 100人（飞书CRM同步）",
     "activeInquiries": 9,
     "inquiryDetail": "Rami L3 · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2 · Basim L3 · Amitkumar L2 · Luca L2",
     "countries": 26,
@@ -89,55 +89,11 @@
     {
       "name": "🇯🇵 日本",
       "count": 2
-    },
-    {
-      "name": "🇲🇾 马来西亚",
-      "count": 1
-    },
-    {
-      "name": "🇮🇷 伊朗",
-      "count": 1
-    },
-    {
-      "name": "🇰🇷 韩国",
-      "count": 1
-    },
-    {
-      "name": "🇵🇰 巴基斯坦",
-      "count": 1
-    },
-    {
-      "name": "🇨🇭 瑞士",
-      "count": 1
-    },
-    {
-      "name": "🇧🇪 比利时",
-      "count": 1
-    },
-    {
-      "name": "🇧🇬 保加利亚",
-      "count": 1
-    },
-    {
-      "name": "🇦🇷 阿根廷",
-      "count": 1
-    },
-    {
-      "name": "🇨🇦 加拿大",
-      "count": 1
-    },
-    {
-      "name": "🇰🇿 哈萨克斯坦",
-      "count": 1
-    },
-    {
-      "name": "🇩🇪 德国",
-      "count": 2
     }
   ],
   "social": {
     "linkedin": "5篇已发布 + 1待发 · 公司页验证排队中",
-    "medium": "4篇已发布 · 最新：文章4 6/2",
+    "medium": "3篇已发布 · 最新：文章4 6/2",
     "youtube": "2篇已发布 · 1篇待发",
     "website": "58次点击 · 🇺🇸为主 · Insights上线"
   },
@@ -160,7 +116,8 @@
       "第8周",
       "第9周",
       "第10周",
-      "第11周"
+      "第11周",
+      "第12周"
     ],
     "crm": [
       0,
@@ -173,6 +130,7 @@
       89,
       112,
       107,
+      100,
       100
     ],
     "countries": 26,
@@ -187,6 +145,7 @@
       3,
       3,
       3,
+      4,
       4
     ],
     "clicks": [
@@ -195,6 +154,7 @@
       0,
       0,
       0,
+      58,
       58,
       58,
       58,
@@ -364,18 +324,18 @@
     "eudamed": "🔴 5/28强制生效，需确认HTKD EUDAMED注册+UDI录入状态",
     "lowConversion": "L2+转化率9%，100个L1需快速筛选推进"
   },
-  "crm_total": 135,
-  "crm_l1": 126,
+  "crm_total": 100,
+  "crm_l1": 79,
   "crm_l2": 7,
   "crm_l3": 2,
   "crm_l4": 0,
   "crm_l5": 0,
   "crm_frozen": 0,
   "crm_countries": 26,
-  "crm_hospital": 91,
-  "crm_kol": 31,
-  "crm_distributor": 12,
-  "crm_date": "2026-06-02",
+  "crm_hospital": 56,
+  "crm_kol": 18,
+  "crm_distributor": 10,
+  "crm_date": "2026-06-03",
   "crm_top_countries": [
     {
       "name": "沙特",
