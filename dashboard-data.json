@@ -324,17 +324,17 @@
     "eudamed": "🔴 5/28强制生效，需确认HTKD EUDAMED注册+UDI录入状态",
     "lowConversion": "L2+转化率9%，100个L1需快速筛选推进"
   },
-  "crm_total": 100,
-  "crm_l1": 79,
+  "crm_total": 135,
+  "crm_l1": 126,
   "crm_l2": 7,
   "crm_l3": 2,
   "crm_l4": 0,
   "crm_l5": 0,
   "crm_frozen": 0,
   "crm_countries": 26,
-  "crm_hospital": 56,
-  "crm_kol": 18,
-  "crm_distributor": 10,
+  "crm_hospital": 91,
+  "crm_kol": 31,
+  "crm_distributor": 12,
   "crm_date": "2026-06-03",
   "crm_top_countries": [
     {
