@@ -357,5 +357,58 @@
       "name": "阿联酋",
       "count": 8
     }
-  ]
+  ],
+  "gsc": {
+    "date": "2026-06-03",
+    "period": "7d",
+    "clicks": 7,
+    "impressions": 67,
+    "ctr": 10.4,
+    "avg_position": 30.3,
+    "top_pages": [
+      {
+        "url": "/",
+        "clicks": 6,
+        "impressions": 10
+      },
+      {
+        "url": "/about/",
+        "clicks": 1,
+        "impressions": 22
+      },
+      {
+        "url": "/products/",
+        "clicks": 0,
+        "impressions": 24
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "USA",
+        "clicks": 4,
+        "impressions": 51
+      },
+      {
+        "country": "Italy",
+        "clicks": 1,
+        "impressions": 3
+      },
+      {
+        "country": "Spain",
+        "clicks": 1,
+        "impressions": 1
+      },
+      {
+        "country": "Malaysia",
+        "clicks": 1,
+        "impressions": 1
+      },
+      {
+        "country": "Canada",
+        "clicks": 0,
+        "impressions": 3
+      }
+    ],
+    "indexed_pages": 13
+  }
 }
