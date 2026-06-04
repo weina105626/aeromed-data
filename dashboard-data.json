@@ -1,1 +1,419 @@
-{"lastUpdated": "2026-06-04", "week": 12, "weekRange": "2026.06.03 \u2013 06.09", "kpi": {"crmTotal": 98, "crmNewNote": "\ud83d\udcca 98\u4eba\uff08\u98de\u4e66CRM\u540c\u6b65\uff09", "activeInquiries": 9, "inquiryDetail": "Abdullh Altawili(L2) \u00b7 Rami Zayed(L3) \u00b7 Caroline Chen(L2) \u00b7 Qazi Aamir Suhail(L2) \u00b7 Carlos Perez Berdasco(L2) \u00b7 Dr. Sarath Kumar Avula(L2) \u00b7 Luca Breschi(L2) \u00b7 Amitkumar Chavan(L2) \u00b7 Basim Ramadan(L3)", "countries": 26, "countryNote": "\ud83d\udcca 26\u56fd\uff0c\u6b27\u76df+\u4e2d\u4e1c+\u4e9a\u6d32\u8986\u76d6", "geoArticles": 4, "geoNote": "TaTME + Sealing Cap + Fascial Closure + Wound Retractor", "websiteClicks": 58, "clickNote": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd\u4e3a\u4e3b\u8981\u6765\u6e90", "signedOrders": 0, "orderNote": "0\u5355\uff0c9\u4e2aL2+\u8be2\u76d8\u63a8\u8fdb\u4e2d"}, "funnel": {"L5": 0, "L4": 0, "L3": 2, "L2": 7, "L1": 77, "L0": 0, "total": 98, "yearTarget": "30+", "q3Target": "\u22651\u5355", "\u2744\ufe0f": 12, "conversionRate": "L2+\u8f6c\u5316\u73879%\uff0898\u4eba\u6c60\uff09"}, "countries": [{"name": "\ud83c\uddf8\ud83c\udde6 \u6c99\u7279", "count": 20}, {"name": "\ud83c\uddee\ud83c\uddf9 \u610f\u5927\u5229", "count": 10}, {"name": "\ud83c\uddee\ud83c\uddf3 \u5370\u5ea6", "count": 10}, {"name": "\ud83c\udde6\ud83c\uddea \u963f\u8054\u914b", "count": 7}, {"name": "\ud83c\uddf9\ud83c\uddf7 \u571f\u8033\u5176", "count": 7}, {"name": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd", "count": 6}, {"name": "\ud83c\uddea\ud83c\uddf8 \u897f\u73ed\u7259", "count": 5}, {"name": "\ud83c\uddea\ud83c\uddec \u57c3\u53ca", "count": 4}, {"name": "\ud83c\uddec\ud83c\udde7 \u82f1\u56fd", "count": 4}, {"name": "\ud83c\uddeb\ud83c\uddf7 \u6cd5\u56fd", "count": 3}, {"name": "\ud83c\udde7\ud83c\uddf7 \u5df4\u897f", "count": 2}, {"name": "\ud83c\uddf7\ud83c\uddf4 \u7f57\u9a6c\u5c3c\u4e9a", "count": 2}, {"name": "\ud83c\uddf3\ud83c\uddf4 \u632a\u5a01", "count": 2}, {"name": "\ud83c\uddf2\ud83c\udde6 \u6469\u6d1b\u54e5", "count": 2}, {"name": "\ud83c\uddef\ud83c\uddf5 \u65e5\u672c", "count": 2}], "social": {"linkedin": "5\u7bc7\u5df2\u53d1\u5e03 + 2\u5f85\u53d1 \u00b7 \u516c\u53f8\u9875\u9a8c\u8bc1\u6392\u961f\u4e2d", "medium": "3\u7bc7\u5df2\u53d1\u5e03 \u00b7 \u6700\u65b0\uff1aWound Retractor\u6587\u7ae0", "youtube": "3\u7bc7\u5df2\u53d1\u5e03 \u00b7 1\u7bc7\u5f85\u53d1\u5e03", "website": "58\u6b21\u70b9\u51fb \u00b7 \ud83c\uddfa\ud83c\uddf8\u4e3a\u4e3b \u00b7 Insights\u4e0a\u7ebf"}, "aiCitation": {"perplexity": "0/5", "chatgpt": "0/5", "gemini": "0/5", "status": "\u5df2\u53d14\u7bc7GEO\u6587\u7ae0 \u00b7 \u7f51\u9875\u7b56\u7565\u542f\u52a8\u4e2d", "forecast": "\u9884\u8ba1\u9996\u6b21\u5f15\u7528\uff1a\u53d1\u5e03\u540e6\u20138\u5468"}, "trend": {"labels": ["\u7b2c1\u5468", "\u7b2c2\u5468", "\u7b2c3\u5468", "\u7b2c4\u5468", "\u7b2c5\u5468", "\u7b2c6\u5468", "\u7b2c7\u5468", "\u7b2c8\u5468", "\u7b2c9\u5468", "\u7b2c10\u5468", "\u7b2c11\u5468", "\u7b2c12\u5468"], "crm": [0, 0, 0, 1, 10, 18, 74, 89, 112, 107, 100, 98], "countries": 26, "geo": [0, 0, 0, 0, 1, 2, 3, 3, 3, 3, 4, 4], "clicks": [0, 0, 0, 0, 0, 58, 58, 58, 58, 58, 58, 58]}, "milestones": [{"name": "\u5b98\u7f51\u4e0a\u7ebf \u00b7 9\u4e2a\u6838\u5fc3\u9875\u9762 \u00b7 CE/MDR\u5408\u89c4", "status": "done"}, {"name": "\u4ea7\u54c1\u76ee\u5f55V3.0 \u00b7 72\u5f20\u4ea7\u54c1\u56fe \u00b7 \u81ea\u4e3b\u5b8c\u6210", "status": "done"}, {"name": "HTKD OEM\u80fd\u529b\u77e9\u9635V1.2 \u00b7 5/19", "status": "done"}, {"name": "YouTube\u5de5\u5382\u89c6\u9891\u7b2c1\u6761 \u00b7 5/20", "status": "done"}, {"name": "GEO\u6587\u7ae0\u7b2c2\u7bc7 \u00b7 Sealing Cap \u00b7 Medium+LinkedIn", "status": "done"}, {"name": "GEO\u6587\u7ae0\u7b2c3\u7bc7 \u00b7 Fascial Closure \u00b7 Medium 5/25", "status": "done"}, {"name": "YouTube\u89c6\u9891\u7b2c2\u6761 \u00b7 Sealing Cap \u00b7 5/26", "status": "done"}, {"name": "Dashboard\u81ea\u52a8\u5316 \u00b7 GitHub JSON\u65b9\u6848 \u00b7 5/28", "status": "done"}, {"name": "\u98de\u4e66CRM\u8fc1\u79fb+\u6bcf\u65e5\u81ea\u52a8\u540c\u6b65 \u00b7 5/28", "status": "done"}, {"name": "GEO\u6587\u7ae0\u7b2c4\u7bc7 \u00b7 6/2\u53d1\u5e03", "status": "done"}, {"name": "\u9996\u5355\u7b7e\u7ea6\u76ee\u6807\uff1a2026\u5e74Q3", "status": "warn"}, {"name": "GEO\u6587\u7ae0 \u226525\u7bc7", "status": "pend", "progress": "4/25"}, {"name": "AI Agent Level 1 \u00b7 \u81ea\u52a8\u751f\u6210+\u53d1\u5e03\u6587\u7ae0", "status": "pend"}, {"name": "\u5546\u6807\u6ce8\u518c \u00b7 \u7d27\u6025", "status": "warn"}], "risks": [{"level": "red", "title": "\u5546\u6807\u672a\u6ce8\u518c \u00b7 \u5df2\u51fa\u73b0\u76f8\u4f3c\u54c1\u724c", "detail": "\u98ce\u9669\u5347\u7ea7 \u00b7 \u9700\u8001\u677f\u7acb\u5373\u62cd\u677f \u00b7 \u9884\u7b97\u7ea6\u00a525,000"}, {"level": "yellow", "title": "Rami\uff08AL Salima\uff09\u00b7 OEM\u8be2\u76d8 \u00b7 L3", "detail": "5/24\u5df2\u53d1\u4ea7\u54c1\u4ecb\u7ecd \u00b7 \u7b49\u5f85\u56de\u590d \u00b7 \u9884\u671f\u9996\u5e74\u91c7\u8d2d$200K-500K"}, {"level": "yellow", "title": "7\u4e2aL2\u8be2\u76d8\u5f85\u8f6c\u5316 \u00b7 \u6c99\u7279/\u610f\u5927\u5229/\u5370\u5ea6/\u897f\u73ed\u7259/\u5fb7\u56fd", "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath/Amitkumar/Luca \u00b7 \u5747\u7b49\u5f85\u56de\u590d"}, {"level": "yellow", "title": "LinkedIn\u516c\u53f8\u9875 \u00b7 \u9a8c\u8bc1\u6392\u961f\u4e2d", "detail": "\u4e0d\u5f71\u54cd\u5ba2\u6237\u5f00\u53d1 \u00b7 \u4e2a\u4eba\u53f7\u6b63\u5e38\u4f7f\u7528"}, {"level": "green", "title": "\u5b98\u7f51SSL + CE/MDR\u5408\u89c4 + \u57df\u540d \u00b7 \u6b63\u5e38", "detail": "\u6301\u7eed\u8fdb\u884c\u5c0fBUG\u4fee\u590d\u4e0e\u5185\u5bb9\u4f18\u5316 \u00b7 \u65e0\u91cd\u5927\u95ee\u9898"}], "investment": {"items": [{"name": "4\u6708 AI\u5de5\u5177\uff08Claude + Perplexity\uff09", "amount": "\u00a5233"}, {"name": "5\u6708 AI\u5de5\u5177\uff08\u542b\u8d85\u91cf\u4f7f\u7528\uff09", "amount": "\u00a51,030"}, {"name": "\u57df\u540d aeromedsurgical.com", "amount": "\u00a5260"}, {"name": "SiteGround\u6258\u7ba1", "amount": "\u5df2\u542b"}, {"name": "\u76ee\u5f55/\u62cd\u7167/\u5efa\u7ad9", "amount": "\u00a50 \u00b7 \u81ea\u4e3b\u5b8c\u6210"}], "total": "\u00a51,523", "revenue": "\u00a50 \u00b7 \u6682\u65e0\u7b7e\u7ea6\u8ba2\u5355"}, "deliverables": ["\u5b98\u7f519\u9875 + Insights\u6a21\u5757\u4e0a\u7ebf", "CE/MDR\u5408\u89c4\u5168\u7ad9\u66f4\u65b0", "\u4ea7\u54c1\u57fa\u51c6\u5361V1.5.3", "OEM\u80fd\u529b\u77e9\u9635V1.2", "GEO\u5173\u952e\u8bcd\u77e9\u9635V2.1 \u00b7 48\u4e2a\u5173\u952e\u8bcd", "\u4ea7\u54c1\u56fe\u5e93 \u00b7 72\u5f20 \u00b7 \u81ea\u4e3b\u62cd\u6444", "\u4ea7\u54c1\u76ee\u5f55V3.0 \u00b7 \u81ea\u4e3b\u8bbe\u8ba1", "CRM \u00b7 100\u4f4d\u5ba2\u6237 \u00b7 26\u56fd", "YouTube\u5de5\u5382\u89c6\u9891\u7b2c1\u6761", "YouTube\u89c6\u9891\u7b2c2\u6761 \u00b7 Sealing Cap", "GEO\u7b2c4\u7bc7\u6587\u7ae0 \u00b7 6/2\u53d1\u5e03", "\u5185\u90e8\u770b\u677f + \u6f14\u793a\u770b\u677f\u4e0a\u7ebf\uff08\u81ea\u52a8\u7248\uff09"], "events": {"thisWeek": ["CRM\u540c\u6b65 \u00b7 98\u4eba \u00b7 \u98de\u4e66CRM\u6bcf\u65e5\u81ea\u52a8", "\u672c\u5468\u65b0\u589e1\u4eba", "GEO\u6587\u7ae04\u7bc7\u5df2\u53d1\u5e03"], "nextWeek": ["\u7ee7\u7eed\u6267\u884c4\u5929\u53d1\u5e03\u8282\u594f\uff08\u5468\u4e00Medium\u2192\u5468\u4e8cLinkedIn\u2192\u5468\u4e09YouTube\u2192\u5468\u56dbLinkedIn\u89c6\u9891\uff09"], "bossDecisions": ["\ud83d\udd34 \u5546\u6807\u6ce8\u518c\u2014\u2014\u7d27\u6025 \u00b7 \u5df2\u51fa\u73b0\u76f8\u4f3c\u54c1\u724c \u00b7 \u9884\u7b97\u7ea6\u00a525,000 \u00b7 \u5efa\u8bae\u7acb\u5373\u542f\u52a8", "\u6c99\u7279SFDA\u6ce8\u518c\u8def\u5f84\uff1aRami\u8be2\u76d8\u8fdb\u5165\u5408\u540c\u9636\u6bb5\u65f6\u9700\u786e\u8ba4AL Salima\u6301\u8bc1 vs HTKD\u81ea\u5df1\u7533\u8bf7"]}, "agentWork": {"week": "2026.06.03-06.09", "crmSync": "\u6bcf\u65e500:00\u98de\u4e66CRM\u2192Dashboard\u540c\u6b65\uff0c\u6570\u636e\u51c6\u786e", "activeInquiries": "9\u4e2aL2+\u8be2\u76d8\u63a8\u8fdb\u4e2d\uff1aAbdullh Altawili(L2) \u00b7 Rami Zayed(L3) \u00b7 Caroline Chen(L2) \u00b7 Qazi Aamir Suhail(L2..."}, "crm_total": 98, "crm_l1": 77, "crm_l2": 7, "crm_l3": 2, "crm_l4": 0, "crm_l5": 0, "crm_frozen": 12, "crm_countries": 26, "crm_hospital": 55, "crm_kol": 17, "crm_distributor": 10, "crm_date": "2026-06-04", "crm_this_week_new": 1, "crm_top_countries": [{"name": "\u6c99\u7279", "count": 20}, {"name": "\u610f\u5927\u5229", "count": 10}, {"name": "\u5370\u5ea6", "count": 10}, {"name": "\u963f\u8054\u914b", "count": 7}, {"name": "\u571f\u8033\u5176", "count": 7}], "gsc": {"date": "2026-06-03", "period": "7d", "clicks": 7, "impressions": 67, "ctr": 10.4, "avg_position": 30.3, "top_pages": [{"url": "/", "clicks": 6, "impressions": 10}, {"url": "/about/", "clicks": 1, "impressions": 22}, {"url": "/products/", "clicks": 0, "impressions": 24}], "top_countries": [{"country": "USA", "clicks": 4, "impressions": 51}, {"country": "Italy", "clicks": 1, "impressions": 3}, {"country": "Spain", "clicks": 1, "impressions": 1}, {"country": "Malaysia", "clicks": 1, "impressions": 1}, {"country": "Canada", "clicks": 0, "impressions": 3}], "indexed_pages": 13}}
+{
+  "lastUpdated": "2026-06-05",
+  "week": 13,
+  "weekRange": "2026.06.03 – 06.09",
+  "kpi": {
+    "crmTotal": 110,
+    "crmNewNote": "📊 110人（飞书CRM同步）",
+    "activeInquiries": 10,
+    "inquiryDetail": "Abdullh Altawili(L2) · Rami Zayed(L3) · Caroline Chen(L2) · Qazi Aamir Suhail(L2) · Carlos Perez Berdasco(L2) · Dr. Sarath Kumar Avula(L2) · Luca Breschi(L2) · Amitkumar Chavan(L2) · Basim Ramadan(L3)",
+    "countries": 28,
+    "countryNote": "📊 28国，欧盟+中东+亚洲覆盖",
+    "geoArticles": 4,
+    "geoNote": "TaTME + Sealing Cap + Fascial Closure + Wound Retractor",
+    "websiteClicks": 58,
+    "clickNote": "🇺🇸 美国为主要来源",
+    "signedOrders": 0,
+    "orderNote": "0单，9个L2+询盘推进中"
+  },
+  "funnel": {
+    "L5": 0,
+    "L4": 0,
+    "L3": 2,
+    "L2": 8,
+    "L1": 88,
+    "L0": 0,
+    "total": 110,
+    "yearTarget": "30+",
+    "q3Target": "≥1单",
+    "❄️": 12,
+    "conversionRate": "L2+转化率9%（110人池）"
+  },
+  "countries": [
+    {
+      "name": "🇸🇦 沙特",
+      "count": 24
+    },
+    {
+      "name": "🇮🇹 意大利",
+      "count": 10
+    },
+    {
+      "name": "🇮🇳 印度",
+      "count": 10
+    },
+    {
+      "name": "🇦🇪 阿联酋",
+      "count": 7
+    },
+    {
+      "name": "🇹🇷 土耳其",
+      "count": 7
+    },
+    {
+      "name": "🇪🇸 西班牙",
+      "count": 6
+    },
+    {
+      "name": "🇪🇬 埃及",
+      "count": 6
+    },
+    {
+      "name": "🇺🇸 美国",
+      "count": 6
+    },
+    {
+      "name": "🇬🇧 英国",
+      "count": 4
+    },
+    {
+      "name": "🇯🇵 日本",
+      "count": 4
+    },
+    {
+      "name": "🇫🇷 法国",
+      "count": 3
+    },
+    {
+      "name": "🇧🇷 巴西",
+      "count": 2
+    },
+    {
+      "name": "🇷🇴 罗马尼亚",
+      "count": 2
+    },
+    {
+      "name": "🇳🇴 挪威",
+      "count": 2
+    },
+    {
+      "name": "🇲🇦 摩洛哥",
+      "count": 2
+    },
+    {
+      "name": "🇨🇦 加拿大",
+      "count": 2
+    },
+    {
+      "name": "🇩🇪 德国",
+      "count": 2
+    },
+    {
+      "name": "🇲🇾 马来西亚",
+      "count": 1
+    },
+    {
+      "name": "🇮🇷 伊朗",
+      "count": 1
+    },
+    {
+      "name": "🇰🇷 韩国",
+      "count": 1
+    }
+  ],
+  "social": {
+    "linkedin": "5篇已发布 + 2待发 · 公司页认证排队中",
+    "medium": "3篇已发布 · 最新：Wound Retractor文章",
+    "youtube": "3篇已发布 · 1篇待发布",
+    "website": "58次点击 · 🇺🇸为主 · Insights上线"
+  },
+  "aiCitation": {
+    "perplexity": "0/5",
+    "chatgpt": "0/5",
+    "gemini": "0/5",
+    "status": "已发4篇GEO文章 · 网页策略启动中",
+    "forecast": "预计首次引用：发布后6–8周"
+  },
+  "trend": {
+    "labels": [
+      "第1周",
+      "第2周",
+      "第3周",
+      "第4周",
+      "第5周",
+      "第6周",
+      "第7周",
+      "第8周",
+      "第9周",
+      "第10周",
+      "第11周",
+      "第13周"
+    ],
+    "crm": [
+      0,
+      0,
+      0,
+      1,
+      10,
+      18,
+      74,
+      89,
+      112,
+      107,
+      100,
+      110
+    ],
+    "countries": 26,
+    "geo": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4
+    ],
+    "clicks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58
+    ]
+  },
+  "milestones": [
+    {
+      "name": "官网上线 · 9个核心页面 · CE/MDR合规",
+      "status": "done"
+    },
+    {
+      "name": "产品目录V3.0 · 72张产品图 · 自主完成",
+      "status": "done"
+    },
+    {
+      "name": "HTKD OEM能力矩阵V1.2 · 5/19",
+      "status": "done"
+    },
+    {
+      "name": "YouTube工厂视频第1条 · 5/20",
+      "status": "done"
+    },
+    {
+      "name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn",
+      "status": "done"
+    },
+    {
+      "name": "GEO文章第3篇 · Fascial Closure · Medium 5/25",
+      "status": "done"
+    },
+    {
+      "name": "YouTube视频第2条 · Sealing Cap · 5/26",
+      "status": "done"
+    },
+    {
+      "name": "Dashboard自动化 · GitHub JSON方案 · 5/28",
+      "status": "done"
+    },
+    {
+      "name": "飞书CRM迁移+每日自动同步 · 5/28",
+      "status": "done"
+    },
+    {
+      "name": "GEO文章第4篇 · 6/2发布",
+      "status": "done"
+    },
+    {
+      "name": "首单签约目标：2026年Q3",
+      "status": "warn"
+    },
+    {
+      "name": "GEO文章 ≥25篇",
+      "status": "pend",
+      "progress": "4/25"
+    },
+    {
+      "name": "AI Agent Level 1 · 自动生成+发布文章",
+      "status": "pend"
+    },
+    {
+      "name": "商标注册 · 紧急",
+      "status": "warn"
+    }
+  ],
+  "risks": [
+    {
+      "level": "red",
+      "title": "商标未注册 · 已出现相似品牌",
+      "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
+    },
+    {
+      "level": "yellow",
+      "title": "Rami（AL Salima）· OEM询盘 · L3",
+      "detail": "5/24已发产品介绍 · 等待回复 · 预期首年采购$200K-500K"
+    },
+    {
+      "level": "yellow",
+      "title": "7个L2询盘待转化 · 沙特/意大利/印度/西班牙/德国",
+      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath/Amitkumar/Luca · 均等待回复"
+    },
+    {
+      "level": "yellow",
+      "title": "LinkedIn公司页 · 验证排队中",
+      "detail": "不影响客户开发 · 个人号正常使用"
+    },
+    {
+      "level": "green",
+      "title": "官网SSL + CE/MDR合规 + 域名 · 正常",
+      "detail": "持续进行小BUG修复与内容优化 · 无重大问题"
+    }
+  ],
+  "investment": {
+    "items": [
+      {
+        "name": "4月 AI工具（Claude + Perplexity）",
+        "amount": "¥233"
+      },
+      {
+        "name": "5月 AI工具（含超量使用）",
+        "amount": "¥1,030"
+      },
+      {
+        "name": "域名 aeromedsurgical.com",
+        "amount": "¥260"
+      },
+      {
+        "name": "SiteGround托管",
+        "amount": "已含"
+      },
+      {
+        "name": "目录/拍照/建站",
+        "amount": "¥0 · 自主完成"
+      }
+    ],
+    "total": "¥1,523",
+    "revenue": "¥0 · 暂无签约订单"
+  },
+  "deliverables": [
+    "官网9页 + Insights模块上线",
+    "CE/MDR合规全站更新",
+    "产品基准卡V1.5.3",
+    "OEM能力矩阵V1.2",
+    "GEO关键词矩阵V2.1 · 48个关键词",
+    "产品图库 · 72张 · 自主拍摄",
+    "产品目录V3.0 · 自主设计",
+    "CRM · 100位客户 · 26国",
+    "YouTube工厂视频第1条",
+    "YouTube视频第2条 · Sealing Cap",
+    "GEO第4篇文章 · 6/2发布",
+    "内部看板 + 演示看板上线（自动版）"
+  ],
+  "events": {
+    "thisWeek": [
+      "CRM同步 · 110人 · 飞书CRM每日自动",
+      "本周新增43人",
+      "GEO文章4篇已发布"
+    ],
+    "nextWeek": [
+      "继续执行4天发布节奏（周一Medium→周二LinkedIn→周三YouTube→周四LinkedIn视频）"
+    ],
+    "bossDecisions": [
+      "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
+      "沙特SFDA注册路径：Rami询盘进入合同阶段时需确认AL Salima持证 vs HTKD自己申请"
+    ]
+  },
+  "agentWork": {
+    "week": "2026.06.03 – 06.09",
+    "crmSync": "每日00:00飞书CRM→Dashboard同步，数据准确",
+    "activeInquiries": "10个L2+询盘推进中"
+  },
+  "crm_total": 110,
+  "crm_l1": 88,
+  "crm_l2": 8,
+  "crm_l3": 2,
+  "crm_l4": 0,
+  "crm_l5": 0,
+  "crm_frozen": 12,
+  "crm_countries": 28,
+  "crm_hospital": 64,
+  "crm_kol": 19,
+  "crm_distributor": 11,
+  "crm_date": "2026-06-05",
+  "crm_this_week_new": 43,
+  "crm_top_countries": [
+    {
+      "name": "沙特",
+      "count": 24
+    },
+    {
+      "name": "意大利",
+      "count": 10
+    },
+    {
+      "name": "印度",
+      "count": 10
+    },
+    {
+      "name": "阿联酋",
+      "count": 7
+    },
+    {
+      "name": "土耳其",
+      "count": 7
+    }
+  ],
+  "gsc": {
+    "date": "2026-06-03",
+    "period": "7d",
+    "clicks": 7,
+    "impressions": 67,
+    "ctr": 10.4,
+    "avg_position": 30.3,
+    "top_pages": [
+      {
+        "url": "/",
+        "clicks": 6,
+        "impressions": 10
+      },
+      {
+        "url": "/about/",
+        "clicks": 1,
+        "impressions": 22
+      },
+      {
+        "url": "/products/",
+        "clicks": 0,
+        "impressions": 24
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "USA",
+        "clicks": 4,
+        "impressions": 51
+      },
+      {
+        "country": "Italy",
+        "clicks": 1,
+        "impressions": 3
+      },
+      {
+        "country": "Spain",
+        "clicks": 1,
+        "impressions": 1
+      },
+      {
+        "country": "Malaysia",
+        "clicks": 1,
+        "impressions": 1
+      },
+      {
+        "country": "Canada",
+        "clicks": 0,
+        "impressions": 3
+      }
+    ],
+    "indexed_pages": 13
+  }
+}
