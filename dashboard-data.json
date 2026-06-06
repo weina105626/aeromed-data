@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-06-06",
-  "week": 11,
+  "lastUpdated": "2026-06-07",
+  "week": 24,
   "weekRange": "2026.06.03 – 06.09",
   "kpi": {
-    "crmTotal": 111,
-    "crmNewNote": "📊 111人（飞书CRM同步）| 本周+10人",
-    "activeInquiries": 11,
-    "inquiryDetail": "Rami L3 · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2 · Basim L3 · Amitkumar L2 · Luca L2 · Rafael L2",
-    "countries": 28,
-    "countryNote": "📊 28国，新增亚美尼亚🇦🇲+斯洛文尼亚🇸🇮",
+    "crmTotal": 115,
+    "crmNewNote": "📊 115人（飞书CRM同步）| 本周+8人",
+    "activeInquiries": 16,
+    "inquiryDetail": "Rami L3 · Basim L3 · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2 · Amitkumar L2 · Luca L2 · Rafael L2 · +6人",
+    "countries": 29,
+    "countryNote": "📊 29国，新增匈牙利🇭🇺",
     "geoArticles": 5,
     "geoNote": "TaTME + Sealing Cap + Fascial Closure + Wound Retractor + vNOTES (6/5)",
     "websiteClicks": 58,
     "clickNote": "🇺🇸 美国为主要来源",
     "signedOrders": 0,
-    "orderNote": "0单，9个L2+询盘推进中"
+    "orderNote": "0单，16个L2+询盘推进中"
   },
   "funnel": {
     "L5": 0,
     "L4": 0,
-    "L3": 2,
-    "L2": 9,
-    "L1": 88,
+    "L3": 3,
+    "L2": 13,
+    "L1": 94,
     "L0": 0,
-    "total": 111,
+    "total": 115,
     "yearTarget": "30+",
     "q3Target": "≥1单",
-    "❄️": 12,
-    "conversionRate": "L2+转化率11%"
+    "❄️": 5,
+    "conversionRate": "L2+转化率14%"
   },
   "countries": [
     {
@@ -36,11 +36,15 @@
     },
     {
       "name": "🇮🇹 意大利",
-      "count": 10
+      "count": 11
     },
     {
       "name": "🇮🇳 印度",
       "count": 10
+    },
+    {
+      "name": "🇪🇸 西班牙",
+      "count": 7
     },
     {
       "name": "🇦🇪 阿联酋",
@@ -51,12 +55,8 @@
       "count": 7
     },
     {
-      "name": "🇪🇸 西班牙",
-      "count": 6
-    },
-    {
       "name": "🇪🇬 埃及",
-      "count": 6
+      "count": 7
     },
     {
       "name": "🇺🇸 美国",
@@ -101,7 +101,7 @@
     "perplexity": "0/5",
     "chatgpt": "0/5",
     "gemini": "0/5",
-    "status": "已发4篇GEO文章 · 网页策略启动中",
+    "status": "已发5篇GEO文章 · 网页策略启动中",
     "forecast": "预计首次引用：发布后6–8周"
   },
   "trend": {
@@ -117,7 +117,19 @@
       "第9周",
       "第10周",
       "第11周",
-      "第12周"
+      "第12周",
+      "第13周",
+      "第14周",
+      "第15周",
+      "第16周",
+      "第17周",
+      "第18周",
+      "第19周",
+      "第20周",
+      "第21周",
+      "第22周",
+      "第23周",
+      "第24周"
     ],
     "crm": [
       0,
@@ -131,9 +143,21 @@
       112,
       107,
       100,
-      111
+      111,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115
     ],
-    "countries": 28,
+    "countries": 29,
     "geo": [
       0,
       0,
@@ -146,7 +170,19 @@
       3,
       3,
       4,
-      4
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
     ],
     "clicks": [
       0,
@@ -154,6 +190,18 @@
       0,
       0,
       0,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
+      58,
       58,
       58,
       58,
@@ -205,21 +253,21 @@
       "status": "done"
     },
     {
+      "name": "GEO文章第5篇 · vNOTES选型指南 · 6/5发布",
+      "status": "done"
+    },
+    {
       "name": "首单签约目标：2026年Q3",
       "status": "warn"
     },
     {
       "name": "GEO文章 ≥25篇",
       "status": "pend",
-      "progress": "4/25"
+      "progress": "5/25"
     },
     {
       "name": "AI Agent Level 1 · 自动生成+发布文章",
       "status": "pend"
-    },
-    {
-      "name": "商标注册 · 紧急",
-      "status": "warn"
     }
   ],
   "risks": [
@@ -235,8 +283,8 @@
     },
     {
       "level": "yellow",
-      "title": "11个L2询盘待转化 · 沙特/意大利/印度/西班牙/德国/加拿大",
-      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath/Amitkumar/Luca/Basim/Rafael · 均等待回复"
+      "title": "16个L2询盘待转化 · 沙特/意大利/印度/西班牙/德国/加拿大",
+      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath/Amitkumar/Luca/Rafael/Basim · 均等待回复"
     },
     {
       "level": "yellow",
@@ -283,25 +331,25 @@
     "GEO关键词矩阵V2.1 · 48个关键词",
     "产品图库 · 72张 · 自主拍摄",
     "产品目录V3.0 · 自主设计",
-    "CRM · 100位客户 · 26国",
+    "CRM · 115位客户 · 29国",
     "YouTube工厂视频第1条",
     "YouTube视频第2条 · Sealing Cap",
-    "GEO第4篇文章 · 6/2发布",
+    "GEO第5篇文章 · vNOTES · 6/5发布",
     "内部看板 + 演示看板上线（自动版）"
   ],
   "events": {
     "thisWeek": [
-      "CRM扩容：111人（+11）| 本周新增10人",
-      "国家覆盖：28国（+2）| 新增亚美尼亚🇦🇲+斯洛文尼亚🇸🇮",
-      "L2+活跃询盘：11人（+2）| Rafael Hadade已入CRM",
-      "6/4-6/5经销商开发：已发22封邮件",
-      "GEO文章第5篇vNOTES选型指南已发出"
+      "CRM扩容：115人（+4）| 本周新增8人",
+      "国家覆盖：29国（+1）| 新增匈牙利🇭🇺",
+      "L2+活跃询盘：16人（+5）| Basim Ramadan升级L3",
+      "6/5 GEO文章第5篇vNOTES选型指南已发布",
+      "6/6 经销商开发W1复盘"
     ],
     "nextWeek": [
-      "6/2(周二)：LinkedIn发文3视频",
-      "6/3(周三)：AI可见度周报+选题推荐 → 飞书推送",
-      "6/4(周四)：LinkedIn发文4摘要",
-      "6/4(周四)：撰写文5草稿+视频脚本"
+      "6/9(周二)：LinkedIn发文",
+      "6/10(周三)：AI可见度周报 → 飞书推送",
+      "6/11(周四)：YouTube视频",
+      "6/12(周五)：经销商开发W2启动"
     ],
     "bossDecisions": [
       "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
@@ -309,35 +357,32 @@
     ]
   },
   "agentWork": {
-    "week": "2026.05.26-06.01",
-    "productLearning": "7天×4产品线学习完成，5条新认知，0认知错位",
-    "dealerDev": "本周为产品学习周，6/2起正式执行5国轮换",
-    "contentProduction": "4篇GEO文章+2条YouTube视频已发布，6/2起4天发布节奏",
-    "intelligence": "7天行业情报监测，EUDAMED强制生效为最高优先级",
+    "week": "2026.06.03-06.09",
+    "productLearning": "4产品线深度学习完成，认知准确",
+    "dealerDev": "W1完成：22封邮件，已发5国 · 6/12 W2启动（目标20封/天）",
+    "contentProduction": "5篇GEO文章+3条YouTube视频已发布",
+    "intelligence": "每日行业情报监测，EUDAMED持续关注",
     "crmSync": "每日00:00飞书CRM→Dashboard同步，数据准确",
-    "inquiryWorkflow": "询盘工作流V1.0已设计，6/2上线测试",
-    "oemMaterials": "OEM Capability Catalog V1.1 + Qualification Matrix V1.2 + Application Form V3 + Partnership Roadmap V2.0 已归档",
-    "ceCertificates": "3份CE证书已归档（G15/CL0008/CL0009）",
-    "srnConfirmed": "CN-MF-000027757 已确认（G15证书验证）"
+    "inquiryWorkflow": "询盘工作流V1.0运行中，16个L2+询盘跟进中"
   },
   "risk": {
     "overdueFollowups": 13,
     "criticalOverdue": "Abdullh Altawili(L2)超6天，Mohammad Hamoud alanazi(L1)超8天",
-    "eudamed": "🔴 5/28强制生效，需确认HTKD EUDAMED注册+UDI录入状态",
-    "lowConversion": "L2+转化率9%，100个L1需快速筛选推进"
+    "eudamed": "EUDAMED已强制生效，需持续关注HTKD注册状态",
+    "lowConversion": "L2+转化率14%，需加快询盘转化"
   },
-  "crm_total": 111,
-  "crm_l1": 88,
-  "crm_l2": 9,
-  "crm_l3": 2,
+  "crm_total": 115,
+  "crm_l1": 94,
+  "crm_l2": 13,
+  "crm_l3": 3,
   "crm_l4": 0,
   "crm_l5": 0,
-  "crm_frozen": 12,
-  "crm_countries": 28,
+  "crm_frozen": 5,
+  "crm_countries": 29,
   "crm_hospital": 91,
   "crm_kol": 31,
   "crm_distributor": 12,
-  "crm_date": "2026-06-06",
+  "crm_date": "2026-06-07",
   "crm_top_countries": [
     {
       "name": "沙特",
@@ -345,11 +390,15 @@
     },
     {
       "name": "意大利",
-      "count": 10
+      "count": 11
     },
     {
       "name": "印度",
       "count": 10
+    },
+    {
+      "name": "西班牙",
+      "count": 7
     },
     {
       "name": "阿联酋",
@@ -360,12 +409,8 @@
       "count": 7
     },
     {
-      "name": "西班牙",
-      "count": 6
-    },
-    {
       "name": "埃及",
-      "count": 6
+      "count": 7
     },
     {
       "name": "美国",
