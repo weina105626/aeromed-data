@@ -1,501 +1,72 @@
 {
-  "lastUpdated": "2026-06-07",
-  "week": 24,
-  "weekRange": "2026.06.03 – 06.09",
+  "last_updated": "2026-06-08",
   "kpi": {
-    "crmTotal": 115,
-    "crmNewNote": "📊 115人（飞书CRM同步）| 本周+8人",
-    "activeInquiries": 16,
-    "inquiryDetail": "Rami L3 · Basim L3 · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2 · Amitkumar L2 · Luca L2 · Rafael L2 · +6人",
-    "countries": 29,
-    "countryNote": "📊 29国，新增匈牙利🇭🇺",
-    "geoArticles": 5,
-    "geoNote": "TaTME + Sealing Cap + Fascial Closure + Wound Retractor + vNOTES (6/5)",
-    "websiteClicks": 58,
-    "clickNote": "🇺🇸 美国为主要来源",
+    "crmTotal": 111,
+    "activeInquiries": 11,
+    "countries": 28,
     "signedOrders": 0,
-    "orderNote": "0单，16个L2+询盘推进中"
+    "weekNew": 0,
+    "l2Plus": 11,
+    "conversionRate": 9.9
   },
   "funnel": {
-    "L5": 0,
-    "L4": 0,
-    "L3": 3,
-    "L2": 13,
-    "L1": 94,
     "L0": 0,
-    "total": 115,
-    "yearTarget": "30+",
-    "q3Target": "≥1单",
-    "❄️": 5,
-    "conversionRate": "L2+转化率14%"
+    "L1": 88,
+    "L2": 9,
+    "L3": 2,
+    "L4": 0,
+    "L5": 0
   },
-  "countries": [
-    {
-      "name": "🇸🇦 沙特",
-      "count": 24
-    },
-    {
-      "name": "🇮🇹 意大利",
-      "count": 11
-    },
-    {
-      "name": "🇮🇳 印度",
-      "count": 10
-    },
-    {
-      "name": "🇪🇸 西班牙",
-      "count": 7
-    },
-    {
-      "name": "🇦🇪 阿联酋",
-      "count": 7
-    },
-    {
-      "name": "🇹🇷 土耳其",
-      "count": 7
-    },
-    {
-      "name": "🇪🇬 埃及",
-      "count": 7
-    },
-    {
-      "name": "🇺🇸 美国",
-      "count": 6
-    },
-    {
-      "name": "🇬🇧 英国",
-      "count": 4
-    },
-    {
-      "name": "🇯🇵 日本",
-      "count": 4
-    },
-    {
-      "name": "🇫🇷 法国",
-      "count": 3
-    },
-    {
-      "name": "🇨🇦 加拿大",
-      "count": 3
-    },
-    {
-      "name": "🇧🇷 巴西",
-      "count": 2
-    },
-    {
-      "name": "🇷🇴 罗马尼亚",
-      "count": 2
-    },
-    {
-      "name": "🇳🇴 挪威",
-      "count": 2
-    }
-  ],
+  "countries": {
+    "🇸🇦 沙特": 24,
+    "🇪🇸 西班牙": 6,
+    "🇧🇷 巴西": 2,
+    "🇦🇪 阿联酋": 7,
+    "🇮🇹 意大利": 10,
+    "🇹🇷 土耳其": 7,
+    "🇪🇬 埃及": 6,
+    "🇮🇳 印度": 10,
+    "🇬🇧 英国": 4,
+    "🇺🇸 美国": 6,
+    "🇯🇵 日本": 4,
+    "🇨🇦 加拿大": 3,
+    "🇩🇪 德国": 2,
+    "🇫🇷 法国": 3,
+    "🇲🇦 摩洛哥": 2,
+    "🇳🇴 挪威": 2,
+    "🇷🇴 罗马尼亚": 2,
+    "🇲🇾 马来西亚": 1,
+    "🇮🇷 伊朗": 1,
+    "🇰🇷 韩国": 1,
+    "🇵🇰 巴基斯坦": 1,
+    "🇨🇭 瑞士": 1,
+    "🇧🇪 比利时": 1,
+    "🇧🇬 保加利亚": 1,
+    "🇦🇷 阿根廷": 1,
+    "🇰🇿 哈萨克斯坦": 1,
+    "🇦🇲 亚美尼亚": 1,
+    "🇸🇮 斯洛文尼亚": 1
+  },
   "social": {
-    "linkedin": "5篇已发布 + 2待发 · 公司页验证排队中",
-    "medium": "3篇已发布 · 最新：文章4 6/2",
-    "youtube": "3篇已发布 + 1待发 · 6/3 Wound Retractor已发布",
-    "website": "58次点击 · 🇺🇸为主 · Insights上线"
+    "medium_articles": 3,
+    "youtube_videos": 3,
+    "linkedin_posts": 5,
+    "geo_articles_total": 4,
+    "pending_yt": 1,
+    "pending_linkedin": 2
   },
-  "aiCitation": {
-    "perplexity": "0/5",
-    "chatgpt": "0/5",
-    "gemini": "0/5",
-    "status": "已发5篇GEO文章 · 网页策略启动中",
-    "forecast": "预计首次引用：发布后6–8周"
-  },
-  "trend": {
-    "labels": [
-      "第1周",
-      "第2周",
-      "第3周",
-      "第4周",
-      "第5周",
-      "第6周",
-      "第7周",
-      "第8周",
-      "第9周",
-      "第10周",
-      "第11周",
-      "第12周",
-      "第13周",
-      "第14周",
-      "第15周",
-      "第16周",
-      "第17周",
-      "第18周",
-      "第19周",
-      "第20周",
-      "第21周",
-      "第22周",
-      "第23周",
-      "第24周"
-    ],
-    "crm": [
-      0,
-      0,
-      0,
-      1,
-      10,
-      18,
-      74,
-      89,
-      112,
-      107,
-      100,
-      111,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115,
-      115
-    ],
-    "countries": 29,
-    "geo": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      2,
-      3,
-      3,
-      3,
-      3,
-      4,
-      4,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "clicks": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58
-    ]
-  },
-  "milestones": [
+  "trend": [
     {
-      "name": "官网上线 · 9个核心页面 · CE/MDR合规",
-      "status": "done"
+      "week": 22,
+      "date": "2026-06-02",
+      "total": 106,
+      "l2Plus": 15
     },
     {
-      "name": "产品目录V3.0 · 72张产品图 · 自主完成",
-      "status": "done"
-    },
-    {
-      "name": "HTKD OEM能力矩阵V1.2 · 5/19",
-      "status": "done"
-    },
-    {
-      "name": "YouTube工厂视频第1条 · 5/20",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第3篇 · Fascial Closure · Medium 5/25",
-      "status": "done"
-    },
-    {
-      "name": "YouTube视频第2条 · Sealing Cap · 5/26",
-      "status": "done"
-    },
-    {
-      "name": "Dashboard自动化 · GitHub JSON方案 · 5/28",
-      "status": "done"
-    },
-    {
-      "name": "飞书CRM迁移+每日自动同步 · 5/28",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第4篇 · 6/2发布",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第5篇 · vNOTES选型指南 · 6/5发布",
-      "status": "done"
-    },
-    {
-      "name": "首单签约目标：2026年Q3",
-      "status": "warn"
-    },
-    {
-      "name": "GEO文章 ≥25篇",
-      "status": "pend",
-      "progress": "5/25"
-    },
-    {
-      "name": "AI Agent Level 1 · 自动生成+发布文章",
-      "status": "pend"
+      "week": 23,
+      "date": "2026-06-08",
+      "total": 111,
+      "l2Plus": 11
     }
-  ],
-  "risks": [
-    {
-      "level": "red",
-      "title": "商标未注册 · 已出现相似品牌",
-      "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
-    },
-    {
-      "level": "yellow",
-      "title": "Rami（AL Salima）· OEM询盘 · L3",
-      "detail": "5/24已发产品介绍 · 等待回复 · 预期首年采购$200K-500K"
-    },
-    {
-      "level": "yellow",
-      "title": "16个L2询盘待转化 · 沙特/意大利/印度/西班牙/德国/加拿大",
-      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath/Amitkumar/Luca/Rafael/Basim · 均等待回复"
-    },
-    {
-      "level": "yellow",
-      "title": "LinkedIn公司页 · 验证排队中",
-      "detail": "不影响客户开发 · 个人号正常使用"
-    },
-    {
-      "level": "green",
-      "title": "官网SSL + CE/MDR合规 + 域名 · 正常",
-      "detail": "持续进行小BUG修复与内容优化 · 无重大问题"
-    }
-  ],
-  "investment": {
-    "items": [
-      {
-        "name": "4月 AI工具（Claude + Perplexity）",
-        "amount": "¥233"
-      },
-      {
-        "name": "5月 AI工具（含超量使用）",
-        "amount": "¥1,030"
-      },
-      {
-        "name": "域名 aeromedsurgical.com",
-        "amount": "¥260"
-      },
-      {
-        "name": "SiteGround托管",
-        "amount": "已含"
-      },
-      {
-        "name": "目录/拍照/建站",
-        "amount": "¥0 · 自主完成"
-      }
-    ],
-    "total": "¥1,523",
-    "revenue": "¥0 · 暂无签约订单"
-  },
-  "deliverables": [
-    "官网9页 + Insights模块上线",
-    "CE/MDR合规全站更新",
-    "产品基准卡V1.5.3",
-    "OEM能力矩阵V1.2",
-    "GEO关键词矩阵V2.1 · 48个关键词",
-    "产品图库 · 72张 · 自主拍摄",
-    "产品目录V3.0 · 自主设计",
-    "CRM · 115位客户 · 29国",
-    "YouTube工厂视频第1条",
-    "YouTube视频第2条 · Sealing Cap",
-    "GEO第5篇文章 · vNOTES · 6/5发布",
-    "内部看板 + 演示看板上线（自动版）"
-  ],
-  "events": {
-    "thisWeek": [
-      "CRM扩容：115人（+4）| 本周新增8人",
-      "国家覆盖：29国（+1）| 新增匈牙利🇭🇺",
-      "L2+活跃询盘：16人（+5）| Basim Ramadan升级L3",
-      "6/5 GEO文章第5篇vNOTES选型指南已发布",
-      "6/6 经销商开发W1复盘"
-    ],
-    "nextWeek": [
-      "6/9(周二)：LinkedIn发文",
-      "6/10(周三)：AI可见度周报 → 飞书推送",
-      "6/11(周四)：YouTube视频",
-      "6/12(周五)：经销商开发W2启动"
-    ],
-    "bossDecisions": [
-      "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
-      "沙特SFDA注册路径：Rami询盘进入合同阶段时需确认AL Salima持证 vs HTKD自己申请"
-    ]
-  },
-  "agentWork": {
-    "week": "2026.06.03-06.09",
-    "productLearning": "4产品线深度学习完成，认知准确",
-    "dealerDev": "W1完成：22封邮件，已发5国 · 6/12 W2启动（目标20封/天）",
-    "contentProduction": "5篇GEO文章+3条YouTube视频已发布",
-    "intelligence": "每日行业情报监测，EUDAMED持续关注",
-    "crmSync": "每日00:00飞书CRM→Dashboard同步，数据准确",
-    "inquiryWorkflow": "询盘工作流V1.0运行中，16个L2+询盘跟进中"
-  },
-  "risk": {
-    "overdueFollowups": 13,
-    "criticalOverdue": "Abdullh Altawili(L2)超6天，Mohammad Hamoud alanazi(L1)超8天",
-    "eudamed": "EUDAMED已强制生效，需持续关注HTKD注册状态",
-    "lowConversion": "L2+转化率14%，需加快询盘转化"
-  },
-  "crm_total": 115,
-  "crm_l1": 94,
-  "crm_l2": 13,
-  "crm_l3": 3,
-  "crm_l4": 0,
-  "crm_l5": 0,
-  "crm_frozen": 5,
-  "crm_countries": 29,
-  "crm_hospital": 91,
-  "crm_kol": 31,
-  "crm_distributor": 12,
-  "crm_date": "2026-06-07",
-  "crm_top_countries": [
-    {
-      "name": "沙特",
-      "count": 24
-    },
-    {
-      "name": "意大利",
-      "count": 11
-    },
-    {
-      "name": "印度",
-      "count": 10
-    },
-    {
-      "name": "西班牙",
-      "count": 7
-    },
-    {
-      "name": "阿联酋",
-      "count": 7
-    },
-    {
-      "name": "土耳其",
-      "count": 7
-    },
-    {
-      "name": "埃及",
-      "count": 7
-    },
-    {
-      "name": "美国",
-      "count": 6
-    },
-    {
-      "name": "英国",
-      "count": 4
-    },
-    {
-      "name": "日本",
-      "count": 4
-    },
-    {
-      "name": "法国",
-      "count": 3
-    },
-    {
-      "name": "加拿大",
-      "count": 3
-    },
-    {
-      "name": "巴西",
-      "count": 2
-    },
-    {
-      "name": "罗马尼亚",
-      "count": 2
-    },
-    {
-      "name": "挪威",
-      "count": 2
-    }
-  ],
-  "gsc": {
-    "date": "2026-06-03",
-    "period": "7d",
-    "clicks": 7,
-    "impressions": 67,
-    "ctr": 10.4,
-    "avg_position": 30.3,
-    "top_pages": [
-      {
-        "url": "/",
-        "clicks": 6,
-        "impressions": 10
-      },
-      {
-        "url": "/about/",
-        "clicks": 1,
-        "impressions": 22
-      },
-      {
-        "url": "/products/",
-        "clicks": 0,
-        "impressions": 24
-      }
-    ],
-    "top_countries": [
-      {
-        "country": "USA",
-        "clicks": 4,
-        "impressions": 51
-      },
-      {
-        "country": "Italy",
-        "clicks": 1,
-        "impressions": 3
-      },
-      {
-        "country": "Spain",
-        "clicks": 1,
-        "impressions": 1
-      },
-      {
-        "country": "Malaysia",
-        "clicks": 1,
-        "impressions": 1
-      },
-      {
-        "country": "Canada",
-        "clicks": 0,
-        "impressions": 3
-      }
-    ],
-    "indexed_pages": 13
-  }
+  ]
 }
