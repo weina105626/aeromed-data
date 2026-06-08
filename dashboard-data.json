@@ -1,72 +1,152 @@
 {
-  "last_updated": "2026-06-08",
+  "last_updated": "2026-06-09",
+  "week": 12,
+  "weekRange": "2026.06.10 – 06.16",
   "kpi": {
     "crmTotal": 111,
+    "crmNewNote": "📊 111人（飞书CRM同步）| 与昨日持平",
     "activeInquiries": 11,
+    "inquiryDetail": "L2+活跃询盘11人",
     "countries": 28,
+    "countryNote": "📊 28国覆盖",
+    "geoArticles": 5,
+    "geoNote": "GEO文章05 vNOTES已发审",
+    "websiteClicks": 58,
+    "clickNote": "🇺🇸 美国为主要来源",
     "signedOrders": 0,
-    "weekNew": 0,
-    "l2Plus": 11,
-    "conversionRate": 9.9
+    "orderNote": "0单，L2+询盘推进中"
   },
   "funnel": {
-    "L0": 0,
-    "L1": 88,
-    "L2": 9,
-    "L3": 2,
+    "L5": 0,
     "L4": 0,
-    "L5": 0
+    "L3": 2,
+    "L2": 9,
+    "L1": 88,
+    "L0": 0,
+    "total": 111,
+    "yearTarget": "30+",
+    "q3Target": "≥1单",
+    "❄️": 12,
+    "conversionRate": "L2+转化率10%"
   },
-  "countries": {
-    "🇸🇦 沙特": 24,
-    "🇪🇸 西班牙": 6,
-    "🇧🇷 巴西": 2,
-    "🇦🇪 阿联酋": 7,
-    "🇮🇹 意大利": 10,
-    "🇹🇷 土耳其": 7,
-    "🇪🇬 埃及": 6,
-    "🇮🇳 印度": 10,
-    "🇬🇧 英国": 4,
-    "🇺🇸 美国": 6,
-    "🇯🇵 日本": 4,
-    "🇨🇦 加拿大": 3,
-    "🇩🇪 德国": 2,
-    "🇫🇷 法国": 3,
-    "🇲🇦 摩洛哥": 2,
-    "🇳🇴 挪威": 2,
-    "🇷🇴 罗马尼亚": 2,
-    "🇲🇾 马来西亚": 1,
-    "🇮🇷 伊朗": 1,
-    "🇰🇷 韩国": 1,
-    "🇵🇰 巴基斯坦": 1,
-    "🇨🇭 瑞士": 1,
-    "🇧🇪 比利时": 1,
-    "🇧🇬 保加利亚": 1,
-    "🇦🇷 阿根廷": 1,
-    "🇰🇿 哈萨克斯坦": 1,
-    "🇦🇲 亚美尼亚": 1,
-    "🇸🇮 斯洛文尼亚": 1
-  },
+  "countries": [
+    {"name": "🇸🇦 沙特", "count": 24},
+    {"name": "🇮🇹 意大利", "count": 10},
+    {"name": "🇮🇳 印度", "count": 10},
+    {"name": "🇦🇪 阿联酋", "count": 7},
+    {"name": "🇹🇷 土耳其", "count": 7},
+    {"name": "🇪🇸 西班牙", "count": 6},
+    {"name": "🇪🇬 埃及", "count": 6},
+    {"name": "🇺🇸 美国", "count": 6},
+    {"name": "🇬🇧 英国", "count": 4},
+    {"name": "🇯🇵 日本", "count": 4},
+    {"name": "🇫🇷 法国", "count": 3},
+    {"name": "🇨🇦 加拿大", "count": 3},
+    {"name": "🇧🇷 巴西", "count": 2},
+    {"name": "🇷🇴 罗马尼亚", "count": 2},
+    {"name": "🇳🇴 挪威", "count": 2},
+    {"name": "🇲🇦 摩洛哥", "count": 2},
+    {"name": "🇩🇪 德国", "count": 2}
+  ],
   "social": {
-    "medium_articles": 3,
-    "youtube_videos": 3,
-    "linkedin_posts": 5,
-    "geo_articles_total": 4,
-    "pending_yt": 1,
-    "pending_linkedin": 2
+    "linkedin": "5篇已发布 + 2待发",
+    "medium": "3篇已发布",
+    "youtube": "3篇已发布 + 1待发",
+    "website": "58次点击"
   },
-  "trend": [
-    {
-      "week": 22,
-      "date": "2026-06-02",
-      "total": 106,
-      "l2Plus": 15
-    },
-    {
-      "week": 23,
-      "date": "2026-06-08",
-      "total": 111,
-      "l2Plus": 11
-    }
-  ]
+  "aiCitation": {
+    "perplexity": "0/5",
+    "chatgpt": "0/5",
+    "gemini": "0/5",
+    "status": "已发4篇GEO文章",
+    "forecast": "预计首次引用：发布后6–8周"
+  },
+  "trend": {
+    "labels": ["第1周","第2周","第3周","第4周","第5周","第6周","第7周","第8周","第9周","第10周","第11周","第12周"],
+    "crm": [0, 0, 0, 1, 10, 18, 74, 89, 112, 107, 100, 111],
+    "countries": 28,
+    "geo": [0, 0, 0, 0, 1, 2, 3, 3, 3, 3, 4, 5],
+    "clicks": [0, 0, 0, 0, 0, 58, 58, 58, 58, 58, 58, 58]
+  },
+  "milestones": [
+    {"name": "官网上线 · 9个核心页面 · CE/MDR合规", "status": "done"},
+    {"name": "产品目录V3.0 · 72张产品图 · 自主完成", "status": "done"},
+    {"name": "HTKD OEM能力矩阵V1.2 · 5/19", "status": "done"},
+    {"name": "YouTube工厂视频第1条 · 5/20", "status": "done"},
+    {"name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn", "status": "done"},
+    {"name": "GEO文章第3篇 · Fascial Closure · Medium 5/25", "status": "done"},
+    {"name": "YouTube视频第2条 · Sealing Cap · 5/26", "status": "done"},
+    {"name": "Dashboard自动化 · GitHub JSON方案 · 5/28", "status": "done"},
+    {"name": "飞书CRM迁移+每日自动同步 · 5/28", "status": "done"},
+    {"name": "GEO文章第4篇 · 6/2发布", "status": "done"},
+    {"name": "W1经销商开发 · 47封邮件 · 6/3-6/6", "status": "done"},
+    {"name": "GEO文章第5篇 · vNOTES指南 · 6/5审稿", "status": "done"},
+    {"name": "首单签约目标：2026年Q3", "status": "warn"},
+    {"name": "GEO文章 ≥25篇", "status": "pend", "progress": "5/25"},
+    {"name": "AI Agent Level 1 · 自动生成+发布文章", "status": "pend"},
+    {"name": "商标注册 · 紧急", "status": "warn"}
+  ],
+  "risks": [
+    {"level": "red", "title": "商标未注册 · 已出现相似品牌", "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"},
+    {"level": "yellow", "title": "Rami（AL Salima）· OEM询盘 · L3", "detail": "5/24已发产品介绍 · 等待回复"},
+    {"level": "yellow", "title": "L2+活跃询盘 · 11人待转化", "detail": "持续跟进中"},
+    {"level": "yellow", "title": "W1经销商开发 · 回复率0%", "detail": "47封已发，W2继续执行"},
+    {"level": "green", "title": "官网SSL + CE/MDR合规 + 域名 · 正常", "detail": "持续进行小BUG修复与内容优化"}
+  ],
+  "investment": {
+    "items": [
+      {"name": "4月 AI工具（Claude + Perplexity）", "amount": "¥233"},
+      {"name": "5月 AI工具（含超量使用）", "amount": "¥1,030"},
+      {"name": "域名 aeromedsurgical.com", "amount": "¥260"},
+      {"name": "SiteGround托管", "amount": "已含"},
+      {"name": "目录/拍照/建站", "amount": "¥0 · 自主完成"}
+    ],
+    "total": "¥1,523",
+    "revenue": "¥0 · 暂无签约订单"
+  },
+  "crm_total": 111,
+  "crm_l1": 88,
+  "crm_l2": 9,
+  "crm_l3": 2,
+  "crm_l4": 0,
+  "crm_l5": 0,
+  "crm_frozen": 12,
+  "crm_countries": 28,
+  "crm_date": "2026-06-09",
+  "crm_top_countries": [
+    {"name": "沙特", "count": 24},
+    {"name": "意大利", "count": 10},
+    {"name": "印度", "count": 10},
+    {"name": "阿联酋", "count": 7},
+    {"name": "土耳其", "count": 7},
+    {"name": "西班牙", "count": 6},
+    {"name": "埃及", "count": 6},
+    {"name": "美国", "count": 6},
+    {"name": "英国", "count": 4},
+    {"name": "日本", "count": 4},
+    {"name": "法国", "count": 3},
+    {"name": "加拿大", "count": 3},
+    {"name": "巴西", "count": 2},
+    {"name": "罗马尼亚", "count": 2},
+    {"name": "挪威", "count": 2},
+    {"name": "摩洛哥", "count": 2},
+    {"name": "德国", "count": 2}
+  ],
+  "gsc": {
+    "date": "2026-06-03",
+    "period": "7d",
+    "clicks": 7,
+    "impressions": 67,
+    "ctr": 10.4,
+    "avg_position": 30.3,
+    "top_pages": [
+      {"url": "/", "clicks": 6, "impressions": 10},
+      {"url": "/about/", "clicks": 1, "impressions": 22}
+    ],
+    "top_countries": [
+      {"country": "USA", "clicks": 4, "impressions": 51},
+      {"country": "Italy", "clicks": 1, "impressions": 3}
+    ],
+    "indexed_pages": 13
+  }
 }
