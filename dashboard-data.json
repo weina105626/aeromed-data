@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-06-09",
-  "week": 11,
-  "weekRange": "2026.06.03 – 06.09",
+  "lastUpdated": "2026-06-14",
+  "week": 13,
+  "weekRange": "2026.06.08 – 06.14",
   "kpi": {
-    "crmTotal": 196,
-    "crmNewNote": "📊 196人（Excel CRM 6/9更新）| +81人 | Heart Stabilizer心脏外科新增 | MEA渠道新增",
+    "crmTotal": 206,
+    "crmNewNote": "📊 206人（基线160，6/8起新增46人）",
     "activeInquiries": 6,
     "inquiryDetail": "Rami L3 · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2",
-    "countries": 36,
-    "countryNote": "📊 36国 | 新增乌克兰🇺🇦/哈萨克斯坦🇰🇿/肯尼亚🇰🇪/亚美尼亚🇦🇲等",
-    "geoArticles": 5,
-    "geoNote": "TaTME + Sealing Cap + Fascial Closure + Wound Retractor + vNOTES (6/5)",
+    "countries": 37,
+    "countryNote": "📊 37国覆盖 | 本周新增：🇩🇪德国",
+    "geoArticles": 6,
+    "geoNote": "第5篇已发布 · 第6篇达芬奇Xi替代方案已定稿待发",
     "websiteClicks": 58,
-    "clickNote": "🇺🇸 美国为主要来源",
+    "clickNote": "GSC基线：7点击/67曝光(6/3)",
     "signedOrders": 0,
     "orderNote": "0单，6个L2+询盘推进中"
   },
@@ -21,13 +21,13 @@
     "L4": 0,
     "L3": 1,
     "L2": 5,
-    "L1": 190,
+    "L1": 200,
     "L0": 0,
-    "total": 196,
+    "total": 206,
     "yearTarget": "30+",
     "q3Target": "≥1单",
     "❄️": 1,
-    "conversionRate": "L2+转化率3.1%"
+    "conversionRate": "L2+转化率2.9%"
   },
   "countries": [
     {
@@ -92,17 +92,43 @@
     }
   ],
   "social": {
-    "linkedin": "5篇已发布 + 2待发 · 公司页验证排队中",
-    "medium": "3篇已发布 · 最新：文章4 6/2",
-    "youtube": "3篇已发布 + 1待发 · 6/3 Wound Retractor已发布",
-    "website": "58次点击 · 🇺🇸为主 · Insights上线"
+    "linkedin": "5篇已发布 + 2待发",
+    "medium": "5篇已发布 · 第6篇6/15发布",
+    "youtube": "4篇已发布（vNOTES #4 6/11）",
+    "website": "GSC基线：7点击/67曝光"
   },
   "aiCitation": {
     "perplexity": "0/5",
     "chatgpt": "0/5",
     "gemini": "0/5",
-    "status": "已发4篇GEO文章 · 网页策略启动中",
+    "status": "已发5篇GEO文章 · 第6篇6/15发布",
     "forecast": "预计首次引用：发布后6–8周"
+  },
+  "dealerDev": {
+    "week2": {
+      "total": 111,
+      "bounceRate": "13%",
+      "delivered": 96,
+      "replies": 0,
+      "countries": 18,
+      "note": "W2 D1 5封退信后切换SMTP预验证+无附件，6/10-6/13连续4天0退信"
+    },
+    "daily": {
+      "d1": {"date": "6/8", "sent": 20, "bounced": 5, "note": "🇹🇷🇮🇹🇳🇱🇧🇪"},
+      "d2": {"date": "6/9", "sent": 20, "bounced": 0, "note": "🇪🇸🇫🇷🇨🇭"},
+      "d3": {"date": "6/10", "sent": 18, "bounced": 0, "note": "🇩🇪🇵🇹🇵🇱🇦🇹 V2.0模板"},
+      "d4": {"date": "6/11", "sent": 17, "bounced": 0, "note": "🇷🇸🇮🇳🇧🇷"},
+      "d5": {"date": "6/12", "sent": 20, "bounced": 0, "note": "🇸🇬🇪🇬🇦🇪🇸🇦🇿🇦"},
+      "d6": {"date": "6/13", "sent": 20, "bounced": 0, "note": "🇬🇧🇮🇪🇦🇺"}
+    },
+    "cumulative": {
+      "sent": 163,
+      "bounced": 21,
+      "bounceRate": "13%",
+      "delivered": 142,
+      "replies": 0,
+      "intentToWinnie": 0
+    }
   },
   "trend": {
     "labels": [
@@ -117,7 +143,8 @@
       "第9周",
       "第10周",
       "第11周",
-      "第12周"
+      "第12周",
+      "第13周"
     ],
     "crm": [
       0,
@@ -131,9 +158,10 @@
       112,
       107,
       100,
-      196
+      160,
+      206
     ],
-    "countries": 28,
+    "countries": 37,
     "geo": [
       0,
       0,
@@ -146,7 +174,8 @@
       3,
       3,
       4,
-      4
+      5,
+      6
     ],
     "clicks": [
       0,
@@ -160,7 +189,22 @@
       58,
       58,
       58,
+      58,
       58
+    ],
+    "dealerEmails": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      47,
+      0,
+      111,
+      163
     ]
   },
   "milestones": [
@@ -205,11 +249,27 @@
       "status": "done"
     },
     {
-      "name": "W1经销商开发 · 37封邮件 · 6/3-6/6",
+      "name": "W1经销商开发 · 47封邮件 · 6/3-6/7",
       "status": "done"
     },
     {
       "name": "GEO文章第5篇 · vNOTES指南 · 6/5审稿",
+      "status": "done"
+    },
+    {
+      "name": "W2经销商开发 · 111封邮件 · 6/8-6/14",
+      "status": "done"
+    },
+    {
+      "name": "YouTube视频第4条 · vNOTES · 6/11发布",
+      "status": "done"
+    },
+    {
+      "name": "三条产线Catalog完成 · 妇产+普外+心外 · 单品+产线+总catalog",
+      "status": "done"
+    },
+    {
+      "name": "LinkedIn 48位联系人开发手册V2",
       "status": "done"
     },
     {
@@ -219,7 +279,7 @@
     {
       "name": "GEO文章 ≥25篇",
       "status": "pend",
-      "progress": "5/25"
+      "progress": "6/25"
     },
     {
       "name": "AI Agent Level 1 · 自动生成+发布文章",
@@ -237,9 +297,9 @@
       "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
     },
     {
-      "level": "red",
-      "title": "经销商开发退信率24% · 超15%红线",
-      "detail": "88封已发21封退信，根因=邮箱无效。6/10起V2.0模板+验证流程"
+      "level": "green",
+      "title": "经销商开发退信率降至13%",
+      "detail": "W2累计163封已发21封退信，6/10-6/13连续4天0退信，V2.0模板+验证流程有效"
     },
     {
       "level": "yellow",
@@ -295,22 +355,27 @@
     "YouTube视频第2条 · Sealing Cap",
     "GEO第4篇文章 · 6/2发布",
     "内部看板 + 演示看板上线（自动版）",
-    "CRM · 196位客户 · 36国"
+    "CRM · 206位客户 · 37国",
+    "W2经销商开发 · 111封邮件 · 6/8-6/13",
+    "三条产线Catalog · 妇产+普外+心外 · 单品+产线+总catalog",
+    "LinkedIn 48位联系人开发手册V2"
   ],
   "events": {
     "thisWeek": [
-      "6/3-6/9 W2经销商开发：88封邮件已发（V1.0最后一批6/9发出，6/10起V2.0模板）",
-      "退信率24%（21/88），新流程已执行：SMTP验证+不带附件+V2.0模板",
-      "CRM更新至196人/36国，新增Heart Stabilizer心脏外科方向+MEA渠道",
-      "GEO文章05 vNOTES已发Winnie审阅",
-      "视频04 Wound Retractor已发布LinkedIn分享",
-      "Winnie 6/9完成：LinkedIn战略+KOL方案+竞品对标+第5篇文章"
+      "6/8-6/14 W2经销商开发：111封已发，0回复",
+      "三条产线Catalog完成：妇产+普外+心外（单品+产线+总catalog）",
+      "vNOTES YouTube视频#4 已发布（6/11）",
+      "GEO文章06 达芬奇Xi替代方案 已定稿",
+      "4个潜在客户正在沟通中",
+      "LinkedIn 48位联系人开发手册V2整理完成",
+      "学习新产品，重新制作物料"
     ],
     "nextWeek": [
-      "6/10(周二)：W2 D3 🇩🇪🇵🇹🇵🇱🇦🇹 经销商开发 V2.0模板",
-      "6/11(周四)：GEO文章+视频脚本",
-      "6/12(周三)：AI可见度周报",
-      "6/14(周日)：W2复盘报告"
+      "4个平台发布GEO第5篇文章和视频",
+      "官网信息内容全部整改",
+      "继续客户开发（W3）",
+      "发布GEO文章第6篇",
+      "W1客户14天跟进触发（模板6）"
     ],
     "bossDecisions": [
       "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
@@ -318,35 +383,54 @@
     ]
   },
   "agentWork": {
-    "week": "2026.05.26-06.01",
-    "productLearning": "7天×4产品线学习完成，5条新认知，0认知错位",
-    "dealerDev": "本周为产品学习周，6/2起正式执行5国轮换",
-    "contentProduction": "4篇GEO文章+2条YouTube视频已发布，6/2起4天发布节奏",
-    "intelligence": "7天行业情报监测，EUDAMED强制生效为最高优先级",
-    "crmSync": "每日00:00飞书CRM→Dashboard同步，数据准确",
-    "inquiryWorkflow": "询盘工作流V1.0已设计，6/2上线测试",
-    "oemMaterials": "OEM Capability Catalog V1.1 + Qualification Matrix V1.2 + Application Form V3 + Partnership Roadmap V2.0 已归档",
-    "ceCertificates": "3份CE证书已归档（G15/CL0008/CL0009）",
-    "srnConfirmed": "CN-MF-000027757 已确认（G15证书验证）"
+    "week": "2026.06.08-06.14",
+    "dealerDev": "W2完成111封邮件，覆盖18国，SMTP预验证+无附件模式退信率降至13%",
+    "contentProduction": "三条产线Catalog完成（妇产+普外+心外），vNOTES YouTube #4已发布，GEO文章06定稿待发",
+    "intelligence": "本周行业情报：da Vinci多款召回+香港首台dV5装机+EUDAMED强制实施倒计时",
+    "crmSync": "每日00:00飞书CRM→Dashboard同步，206人CRM已更新"
   },
   "risk": {
     "overdueFollowups": 6,
     "criticalOverdue": "L2+ 6人待转化，Rami(L3)等回复",
-    "eudamed": "🔴 5/28强制生效，需确认HTKD EUDAMED注册+UDI录入状态",
-    "lowConversion": "L2+转化率3.1%，190个L1需快速筛选推进"
+    "eudamed": "🔴 2026-11-28 EUDAMED四模块强制生效，需确认HTKD UDI+注册状态",
+    "lowConversion": "L2+转化率2.9%，206个L1-L2需持续筛选推进"
   },
-  "crm_total": 196,
-  "crm_l1": 190,
+  "linkedin48": {
+    "total": 48,
+    "gradeA": 19,
+    "gradeB": 15,
+    "gradeC": 5,
+    "gradeD": 9,
+    "topCountries": [
+      {"country": "India", "count": 13, "gradeA": 7},
+      {"country": "USA", "count": 7, "gradeA": 0},
+      {"country": "Italy", "count": 5, "gradeA": 1},
+      {"country": "Saudi", "count": 3, "gradeA": 1},
+      {"country": "UK", "count": 3, "gradeA": 3},
+      {"country": "Germany", "count": 2, "gradeA": 1},
+      {"country": "Australia", "count": 2, "gradeA": 0},
+      {"country": "Egypt", "count": 2, "gradeA": 0},
+      {"country": "Korea", "count": 1, "gradeA": 0},
+      {"country": "Japan", "count": 1, "gradeA": 0},
+      {"country": "UAE", "count": 1, "gradeA": 0},
+      {"country": "Tunisia", "count": 1, "gradeA": 0}
+    ],
+    "note": "信息待补全：医院/公司、AMS关联产品、开发策略均待填写"
+  },
+  "activeClients": 4,
+  "activeClientsNote": "4个潜在客户正在沟通中",
+  "crm_total": 206,
+  "crm_l1": 200,
   "crm_l2": 5,
   "crm_l3": 1,
   "crm_l4": 0,
   "crm_l5": 0,
   "crm_frozen": 1,
-  "crm_countries": 36,
-  "crm_hospital": 134,
-  "crm_kol": 47,
+  "crm_countries": 37,
+  "crm_hospital": 140,
+  "crm_kol": 56,
   "crm_distributor": 15,
-  "crm_date": "2026-06-09",
+  "crm_date": "2026-06-14",
   "crm_top_countries": [
     {
       "name": "沙特",
@@ -461,5 +545,55 @@
       }
     ],
     "indexed_pages": 13
-  }
+  },
+  "industryNews": [
+    {
+      "date": "6/3",
+      "category": "竞品召回",
+      "title": "da Vinci X/Xi Class 2召回扩大至2781台",
+      "detail": "FDA确认，螺丝松动可能导致臂组件分离，涉及全球多个国家"
+    },
+    {
+      "date": "6/6",
+      "category": "竞品召回",
+      "title": "da Vinci 5 Class 2召回（12台）",
+      "detail": "软件P1.2.1导致双控制台配置下UI崩溃"
+    },
+    {
+      "date": "6/7",
+      "category": "市场动态",
+      "title": "达芬奇5香港首台装机",
+      "detail": "直观复星宣布，全球已安装1400+台，12800+医生使用"
+    },
+    {
+      "date": "6/9",
+      "category": "市场动态",
+      "title": "Medtronic Hugo新增妇科/普外科适应症",
+      "detail": "Hugo RAS扩展适应症，与da Vinci竞争加剧"
+    },
+    {
+      "date": "6/11",
+      "category": "市场动态",
+      "title": "CONMED退出GI外科业务",
+      "detail": "聚焦核心业务，利好AeroMed等专注MIS的品牌"
+    },
+    {
+      "date": "6/11",
+      "category": "技术进展",
+      "title": "土耳其Liv医院推广单孔达芬奇SP",
+      "detail": "多科室应用，疤痕更少，恢复更快"
+    },
+    {
+      "date": "6/12",
+      "category": "竞品警报",
+      "title": "da Vinci SureForm30 FDA安全警报",
+      "detail": "吻合器问题，临床使用需注意"
+    },
+    {
+      "date": "6/14",
+      "category": "法规",
+      "title": "EU MDR 2026/977强制NB认证周期规范",
+      "detail": "2027-02生效，利好CE认证效率"
+    }
+  ]
 }
