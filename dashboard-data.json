@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-06-14",
-  "week": 13,
-  "weekRange": "2026.06.08 – 06.14",
+  "lastUpdated": "2026-06-22",
+  "week": 16,
+  "weekRange": "2026.06.22 – 06.28",
   "kpi": {
-    "crmTotal": 206,
-    "crmNewNote": "📊 206人（基线160，6/8起新增46人CRM + 48人LinkedIn待录入 = 本周新增94人）",
-    "activeInquiries": 6,
-    "inquiryDetail": "Rami L3 · Abdullh L2 · Caroline L2 · Qazi L2 · Carlos L2 · Sarath L2",
-    "countries": 37,
-    "countryNote": "📊 37国覆盖 | 本周新增：🇩🇪德国",
+    "crmTotal": 248,
+    "crmNewNote": "📊 248人（基线206 + 42位LinkedIn新联系人待录入）",
+    "activeInquiries": 5,
+    "inquiryDetail": "Luca Fusco L3 · Shlomi Levi L2 · Trion Pharma L2 · Ulukağan Özoğul L2 · Virtual Ports L2",
+    "countries": 39,
+    "countryNote": "📊 39国覆盖 | 本周新增：🇮🇶伊拉克",
     "geoArticles": 6,
-    "geoNote": "第5篇已发布 · 第6篇达芬奇Xi替代方案已定稿待发",
+    "geoNote": "第6篇GEO文章已发布 · GEO工作本周重启",
     "websiteClicks": 58,
     "clickNote": "GSC基线：7点击/67曝光(6/3)",
     "signedOrders": 0,
-    "orderNote": "0单，6个L2+询盘推进中"
+    "orderNote": "0单，5个L2+询盘推进中"
   },
   "funnel": {
     "L5": 0,
     "L4": 0,
     "L3": 1,
-    "L2": 5,
-    "L1": 200,
+    "L2": 4,
+    "L1": 243,
     "L0": 0,
-    "total": 206,
+    "total": 248,
     "yearTarget": "30+",
     "q3Target": "≥1单",
     "❄️": 1,
-    "conversionRate": "L2+转化率2.9%"
+    "conversionRate": "L2+转化率2.0%"
   },
   "countries": [
     {
@@ -92,16 +92,16 @@
     }
   ],
   "social": {
-    "linkedin": "5篇已发布 + 2待发",
-    "medium": "5篇已发布 · 第6篇6/15发布",
+    "linkedin": "5篇已发布 + GEO重启",
+    "medium": "6篇已发布 · 第6篇刚发布",
     "youtube": "4篇已发布（vNOTES #4 6/11）",
-    "website": "GSC基线：7点击/67曝光"
+    "website": "GSC基线：7点击/67曝光(6/3) · Google零收录待修复"
   },
   "aiCitation": {
     "perplexity": "0/5",
     "chatgpt": "0/5",
     "gemini": "0/5",
-    "status": "已发5篇GEO文章 · 第6篇6/15发布",
+    "status": "已发6篇GEO · 本周GEO重启",
     "forecast": "预计首次引用：发布后6–8周"
   },
   "dealerDev": {
@@ -114,20 +114,68 @@
       "note": "W2 D1 5封退信后切换SMTP预验证+无附件，6/10-6/13连续4天0退信"
     },
     "daily": {
-      "d1": {"date": "6/8", "sent": 20, "bounced": 5, "note": "🇹🇷🇮🇹🇳🇱🇧🇪"},
-      "d2": {"date": "6/9", "sent": 20, "bounced": 0, "note": "🇪🇸🇫🇷🇨🇭"},
-      "d3": {"date": "6/10", "sent": 18, "bounced": 0, "note": "🇩🇪🇵🇹🇵🇱🇦🇹 V2.0模板"},
-      "d4": {"date": "6/11", "sent": 17, "bounced": 0, "note": "🇷🇸🇮🇳🇧🇷"},
-      "d5": {"date": "6/12", "sent": 20, "bounced": 0, "note": "🇸🇬🇪🇬🇦🇪🇸🇦🇿🇦"},
-      "d6": {"date": "6/13", "sent": 20, "bounced": 0, "note": "🇬🇧🇮🇪🇦🇺"}
+      "d1": {
+        "date": "6/8",
+        "sent": 20,
+        "bounced": 5,
+        "note": "🇹🇷🇮🇹🇳🇱🇧🇪"
+      },
+      "d2": {
+        "date": "6/9",
+        "sent": 20,
+        "bounced": 0,
+        "note": "🇪🇸🇫🇷🇨🇭"
+      },
+      "d3": {
+        "date": "6/10",
+        "sent": 18,
+        "bounced": 0,
+        "note": "🇩🇪🇵🇹🇵🇱🇦🇹 V2.0模板"
+      },
+      "d4": {
+        "date": "6/11",
+        "sent": 17,
+        "bounced": 0,
+        "note": "🇷🇸🇮🇳🇧🇷"
+      },
+      "d5": {
+        "date": "6/12",
+        "sent": 20,
+        "bounced": 0,
+        "note": "🇸🇬🇪🇬🇦🇪🇸🇦🇿🇦"
+      },
+      "d6": {
+        "date": "6/13",
+        "sent": 20,
+        "bounced": 0,
+        "note": "🇬🇧🇮🇪🇦🇺"
+      }
     },
     "cumulative": {
-      "sent": 163,
-      "bounced": 21,
-      "bounceRate": "13%",
-      "delivered": 142,
-      "replies": 0,
-      "intentToWinnie": 0
+      "sent": 340,
+      "bounced": 99,
+      "bounceRate": "29.1%",
+      "delivered": 241,
+      "replies": 5,
+      "intentToWinnie": 5
+    },
+    "v4": {
+      "method": "官网验证法",
+      "sent": 30,
+      "bounced": 8,
+      "bounceRate": "26.7%",
+      "delivered": 22,
+      "replies": 2,
+      "sources": "Deltex Medical + American Surgical + Coloplast分销商页",
+      "note": "V4退信率26.7%仍优于V1(80%)/V2(50-70%)/V3(50%)"
+    },
+    "daily_622": {
+      "date": "6/22",
+      "sent": 82,
+      "bounced": 20,
+      "replies": 5,
+      "autoReplies": 2,
+      "note": "82封发送(41老客户+10新候选+10V4b3+10V4b4+10V4b5+1重发)，20退信，5回复，2自动回复"
     }
   },
   "trend": {
@@ -144,7 +192,10 @@
       "第10周",
       "第11周",
       "第12周",
-      "第13周"
+      "第13周",
+      "第14周",
+      "第15周",
+      "第16周"
     ],
     "crm": [
       0,
@@ -159,7 +210,8 @@
       107,
       100,
       160,
-      206
+      206,
+      248
     ],
     "countries": 37,
     "geo": [
@@ -175,6 +227,9 @@
       3,
       4,
       5,
+      6,
+      6,
+      6,
       6
     ],
     "clicks": [
@@ -204,7 +259,8 @@
       47,
       0,
       111,
-      163
+      163,
+      340
     ]
   },
   "milestones": [
@@ -288,33 +344,41 @@
     {
       "name": "商标注册 · 紧急",
       "status": "warn"
+    },
+    {
+      "name": "W3经销商开发 · 340封邮件 · Reconnect模板+V4官网验证法",
+      "status": "done"
+    },
+    {
+      "name": "GEO第6篇文章 · 已发布 · GEO重启",
+      "status": "done"
     }
   ],
   "risks": [
+    {
+      "level": "red",
+      "title": "aeromedsurgical.com Google零收录",
+      "detail": "网站已上线但Google完全未索引，等待Winnie授权检查robots.txt+提交GSC"
+    },
     {
       "level": "red",
       "title": "商标未注册 · 已出现相似品牌",
       "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
     },
     {
-      "level": "green",
-      "title": "经销商开发退信率降至13%",
-      "detail": "W2累计163封已发21封退信，6/10-6/13连续4天0退信，V2.0模板+验证流程有效"
-    },
-    {
       "level": "yellow",
-      "title": "Rami（AL Salima）· OEM询盘 · L3",
-      "detail": "5/24已发产品介绍 · 等待回复 · 预期首年采购$200K-500K"
-    },
-    {
-      "level": "yellow",
-      "title": "L2+活跃询盘 · 6人待转化",
-      "detail": "Abdullh/Caroline/Qazi/Carlos/Sarath/Rami"
+      "title": "V4官网验证法退信率26.7%",
+      "detail": "优于V1-V3但非早期3.3%假象，小公司分销商页邮箱可能过时，需优先中大型公司"
     },
     {
       "level": "green",
-      "title": "官网SSL + CE/MDR合规 + 域名 · 正常",
-      "detail": "持续进行小BUG修复与内容优化"
+      "title": "5个积极回复 · 回复率1.66%",
+      "detail": "Luca Fusco🇮🇹(L3电话)/Shlomi Levi🇮🇱/Trion Pharma🇮🇳/Ulukağan🇹🇷(LinkedIn)/Virtual Ports🇮🇱"
+    },
+    {
+      "level": "green",
+      "title": "42位LinkedIn新联系人待录入CRM",
+      "detail": "含伊拉克/英国等新市场医生，扩展KOL网络"
     }
   ],
   "investment": {
@@ -358,24 +422,27 @@
     "CRM · 206位客户 · 37国",
     "W2经销商开发 · 111封邮件 · 6/8-6/13",
     "三条产线Catalog · 妇产+普外+心外 · 单品+产线+总catalog",
-    "LinkedIn 48位联系人开发手册V2"
+    "LinkedIn 48位联系人开发手册V2",
+    "W3经销商开发 · 82封Reconnect+V4邮件",
+    "GEO第6篇文章 · 已发布 · GEO重启",
+    "V4官网验证法 · 30封发送 · 三大数据源"
   ],
   "events": {
     "thisWeek": [
-      "6/8-6/14 W2经销商开发：111封已发，0回复",
-      "三条产线Catalog完成：妇产+普外+心外（单品+产线+总catalog）",
-      "vNOTES YouTube视频#4 已发布（6/11）",
-      "GEO文章06 达芬奇Xi替代方案 已定稿",
-      "4个潜在客户正在沟通中",
-      "LinkedIn 48位联系人开发手册V2整理完成",
-      "学习新产品，重新制作物料"
+      "6/22 经销商开发82封发送(Reconnect+V4官网验证法)，5个积极回复",
+      "GEO第6篇文章已发布，GEO工作本周重启",
+      "42位LinkedIn新联系人待录入CRM",
+      "V4官网验证法：Deltex/American Surgical/Coloplast三大数据源",
+      "Al Danah Medical🇶🇦域名变更已重发",
+      "CPP Budapest🇭🇺 Gergely Jancsó OOO至6/24"
     ],
     "nextWeek": [
-      "4个平台发布GEO第5篇文章和视频",
-      "官网信息内容全部整改",
-      "继续客户开发（W3）",
-      "发布GEO文章第6篇",
-      "W1客户14天跟进触发（模板6）"
+      "6/24跟进CPP Budapest Gergely Jancsó",
+      "Luca Fusco电话会议",
+      "继续V4官网验证法邮件发送(第6批)",
+      "42位LinkedIn联系人录入CRM",
+      "GEO文章继续生产",
+      "aeromedsurgical.com零收录问题修复"
     ],
     "bossDecisions": [
       "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
@@ -383,11 +450,11 @@
     ]
   },
   "agentWork": {
-    "week": "2026.06.08-06.14",
-    "dealerDev": "W2完成111封邮件，覆盖18国，SMTP预验证+无附件模式退信率降至13%",
-    "contentProduction": "三条产线Catalog完成（妇产+普外+心外），vNOTES YouTube #4已发布，GEO文章06定稿待发",
-    "intelligence": "本周行业情报：da Vinci多款召回+香港首台dV5装机+EUDAMED强制实施倒计时",
-    "crmSync": "每日00:00飞书CRM→Dashboard同步，206人CRM已更新"
+    "week": "2026.06.22-06.28",
+    "dealerDev": "W3完成82封邮件(Reconnect+V4官网验证法)，5个积极回复，V4退信率26.7%",
+    "contentProduction": "GEO第6篇已发布，GEO本周重启",
+    "intelligence": "da Vinci SureForm30 FDA安全警报 | CONMED退出GI外科 | EU MDR 2026/977强制NB认证",
+    "crmSync": "42位LinkedIn新联系人待录入，CRM将更新至248人"
   },
   "risk": {
     "overdueFollowups": 6,
@@ -396,29 +463,77 @@
     "lowConversion": "L2+转化率2.9%，206个L1-L2需持续筛选推进"
   },
   "linkedin48": {
-    "total": 48,
+    "total": 90,
     "gradeA": 19,
     "gradeB": 15,
     "gradeC": 5,
     "gradeD": 9,
     "topCountries": [
-      {"country": "India", "count": 13, "gradeA": 7},
-      {"country": "USA", "count": 7, "gradeA": 0},
-      {"country": "Italy", "count": 5, "gradeA": 1},
-      {"country": "Saudi", "count": 3, "gradeA": 1},
-      {"country": "UK", "count": 3, "gradeA": 3},
-      {"country": "Germany", "count": 2, "gradeA": 1},
-      {"country": "Australia", "count": 2, "gradeA": 0},
-      {"country": "Egypt", "count": 2, "gradeA": 0},
-      {"country": "Korea", "count": 1, "gradeA": 0},
-      {"country": "Japan", "count": 1, "gradeA": 0},
-      {"country": "UAE", "count": 1, "gradeA": 0},
-      {"country": "Tunisia", "count": 1, "gradeA": 0}
+      {
+        "country": "India",
+        "count": 13,
+        "gradeA": 7
+      },
+      {
+        "country": "USA",
+        "count": 7,
+        "gradeA": 0
+      },
+      {
+        "country": "Italy",
+        "count": 5,
+        "gradeA": 1
+      },
+      {
+        "country": "Saudi",
+        "count": 3,
+        "gradeA": 1
+      },
+      {
+        "country": "UK",
+        "count": 3,
+        "gradeA": 3
+      },
+      {
+        "country": "Germany",
+        "count": 2,
+        "gradeA": 1
+      },
+      {
+        "country": "Australia",
+        "count": 2,
+        "gradeA": 0
+      },
+      {
+        "country": "Egypt",
+        "count": 2,
+        "gradeA": 0
+      },
+      {
+        "country": "Korea",
+        "count": 1,
+        "gradeA": 0
+      },
+      {
+        "country": "Japan",
+        "count": 1,
+        "gradeA": 0
+      },
+      {
+        "country": "UAE",
+        "count": 1,
+        "gradeA": 0
+      },
+      {
+        "country": "Tunisia",
+        "count": 1,
+        "gradeA": 0
+      }
     ],
-    "note": "信息待补全：医院/公司、AMS关联产品、开发策略均待填写"
+    "note": "原有48位 + 42位新LinkedIn联系人待录入（含伊拉克/英国医生）"
   },
-  "activeClients": 4,
-  "activeClientsNote": "4个潜在客户正在沟通中",
+  "activeClients": 5,
+  "activeClientsNote": "5个积极回复：Luca Fusco🇮🇹/Shlomi Levi🇮🇱/Trion Pharma🇮🇳/Ulukağan🇹🇷/Virtual Ports🇮🇱",
   "crm_total": 206,
   "crm_l1": 200,
   "crm_l2": 5,
