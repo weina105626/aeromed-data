@@ -1,714 +1,146 @@
 {
-  "lastUpdated": "2026-06-22",
-  "week": 16,
-  "weekRange": "2026.06.22 – 06.28",
-  "kpi": {
-    "crmTotal": 248,
-    "crmNewNote": "📊 248人（基线206 + 42位LinkedIn新联系人待录入）",
-    "activeInquiries": 5,
-    "inquiryDetail": "Luca Fusco L3 · Shlomi Levi L2 · Trion Pharma L2 · Ulukağan Özoğul L2 · Virtual Ports L2",
+  "lastUpdated": "2026-06-24T18:30:00+08:00",
+  "summary": {
+    "totalSent": 458,
+    "bounced": 118,
+    "bounceRate": 25.8,
+    "delivered": 340,
+    "positiveReplies": 6,
+    "replyRate": 1.76,
     "countries": 39,
-    "countryNote": "📊 39国覆盖 | 本周新增：🇮🇶伊拉克",
-    "geoArticles": 6,
-    "geoNote": "第6篇GEO文章已发布 · GEO工作本周重启",
-    "websiteClicks": 58,
-    "clickNote": "GSC基线：7点击/67曝光(6/3)",
-    "signedOrders": 0,
-    "orderNote": "0单，5个L2+询盘推进中"
+    "contacts": 248,
+    "activeLeads": 6
   },
-  "funnel": {
-    "L5": 0,
-    "L4": 0,
-    "L3": 1,
-    "L2": 4,
-    "L1": 243,
-    "L0": 0,
-    "total": 248,
-    "yearTarget": "30+",
-    "q3Target": "≥1单",
-    "❄️": 1,
-    "conversionRate": "L2+转化率2.0%"
-  },
-  "countries": [
+  "weeklyData": [
     {
-      "name": "沙特",
-      "count": 35
+      "week": "W1",
+      "sent": 15,
+      "bounced": 0,
+      "replies": 0
     },
     {
-      "name": "意大利",
-      "count": 27
+      "week": "W2",
+      "sent": 52,
+      "bounced": 12,
+      "replies": 0
     },
     {
-      "name": "印度",
-      "count": 24
+      "week": "W3",
+      "sent": 102,
+      "bounced": 37,
+      "replies": 0
     },
     {
-      "name": "美国",
-      "count": 14
+      "week": "W4",
+      "sent": 133,
+      "bounced": 43,
+      "replies": 1
     },
     {
-      "name": "土耳其",
-      "count": 11
-    },
-    {
-      "name": "埃及",
-      "count": 11
-    },
-    {
-      "name": "英国",
-      "count": 10
-    },
-    {
-      "name": "阿联酋",
-      "count": 8
-    },
-    {
-      "name": "西班牙",
-      "count": 7
-    },
-    {
-      "name": "巴西",
-      "count": 4
-    },
-    {
-      "name": "罗马尼亚",
-      "count": 4
-    },
-    {
-      "name": "法国",
-      "count": 4
-    },
-    {
-      "name": "日本",
-      "count": 4
-    },
-    {
-      "name": "马来西亚",
-      "count": 3
-    },
-    {
-      "name": "比利时",
-      "count": 3
-    }
-  ],
-  "social": {
-    "linkedin": "5篇已发布 + GEO重启",
-    "medium": "6篇已发布 · 第6篇刚发布",
-    "youtube": "4篇已发布（vNOTES #4 6/11）",
-    "website": "GSC基线：7点击/67曝光(6/3) · Google零收录待修复"
-  },
-  "aiCitation": {
-    "perplexity": "0/5",
-    "chatgpt": "0/5",
-    "gemini": "0/5",
-    "status": "已发6篇GEO · 本周GEO重启",
-    "forecast": "预计首次引用：发布后6–8周"
-  },
-  "dealerDev": {
-    "week2": {
-      "total": 111,
-      "bounceRate": "13%",
-      "delivered": 96,
-      "replies": 0,
-      "countries": 18,
-      "note": "W2 D1 5封退信后切换SMTP预验证+无附件，6/10-6/13连续4天0退信"
-    },
-    "daily": {
-      "d1": {
-        "date": "6/8",
-        "sent": 20,
-        "bounced": 5,
-        "note": "🇹🇷🇮🇹🇳🇱🇧🇪"
-      },
-      "d2": {
-        "date": "6/9",
-        "sent": 20,
-        "bounced": 0,
-        "note": "🇪🇸🇫🇷🇨🇭"
-      },
-      "d3": {
-        "date": "6/10",
-        "sent": 18,
-        "bounced": 0,
-        "note": "🇩🇪🇵🇹🇵🇱🇦🇹 V2.0模板"
-      },
-      "d4": {
-        "date": "6/11",
-        "sent": 17,
-        "bounced": 0,
-        "note": "🇷🇸🇮🇳🇧🇷"
-      },
-      "d5": {
-        "date": "6/12",
-        "sent": 20,
-        "bounced": 0,
-        "note": "🇸🇬🇪🇬🇦🇪🇸🇦🇿🇦"
-      },
-      "d6": {
-        "date": "6/13",
-        "sent": 20,
-        "bounced": 0,
-        "note": "🇬🇧🇮🇪🇦🇺"
-      }
-    },
-    "cumulative": {
-      "sent": 340,
-      "bounced": 99,
-      "bounceRate": "29.1%",
-      "delivered": 241,
-      "replies": 5,
-      "intentToWinnie": 5
-    },
-    "v4": {
-      "method": "官网验证法",
-      "sent": 30,
-      "bounced": 8,
-      "bounceRate": "26.7%",
-      "delivered": 22,
-      "replies": 2,
-      "sources": "Deltex Medical + American Surgical + Coloplast分销商页",
-      "note": "V4退信率26.7%仍优于V1(80%)/V2(50-70%)/V3(50%)"
-    },
-    "daily_622": {
-      "date": "6/22",
-      "sent": 82,
+      "week": "W5",
+      "sent": 126,
       "bounced": 20,
-      "replies": 5,
-      "autoReplies": 2,
-      "note": "82封发送(41老客户+10新候选+10V4b3+10V4b4+10V4b5+1重发)，20退信，5回复，2自动回复"
+      "replies": 4
+    },
+    {
+      "week": "W6",
+      "sent": 30,
+      "bounced": 6,
+      "replies": 1
+    }
+  ],
+  "positiveReplies": [
+    {
+      "name": "Luca Fusco",
+      "company": "LCF Service S.r.l.",
+      "country": "🇮🇹 Italy",
+      "date": "2026-06-22",
+      "status": "Phone call scheduled",
+      "interest": "General MIS"
+    },
+    {
+      "name": "Shlomi Levi",
+      "company": "Shlomi Levi Medical",
+      "country": "🇮🇱 Israel",
+      "date": "2026-06-22",
+      "status": "Catalog sent",
+      "interest": "General MIS"
+    },
+    {
+      "name": "Trion Pharma",
+      "company": "Trion Pharma",
+      "country": "🇮🇳 India",
+      "date": "2026-06-22",
+      "status": "Winnie self-replied",
+      "interest": "Multi-line"
+    },
+    {
+      "name": "Ulukağan Özoğul",
+      "company": "N/A",
+      "country": "🇹🇷 Turkey",
+      "date": "2026-06-22",
+      "status": "LinkedIn outreach",
+      "interest": "Catalog requested"
+    },
+    {
+      "name": "Virtual Ports",
+      "company": "Virtual Ports",
+      "country": "🇮🇱 Israel",
+      "date": "2026-06-22",
+      "status": "Tovy forwarded CEO/BD",
+      "interest": "General MIS"
+    },
+    {
+      "name": "Rick Coury",
+      "company": "Apex Medical",
+      "country": "🇳🇦 Namibia",
+      "date": "2026-06-24",
+      "status": "Catalog sent, Winnie follow-up",
+      "interest": "Hand-assisted series"
+    }
+  ],
+  "dataSource": {
+    "Coloplast": {
+      "sent": 23,
+      "bounced": 0,
+      "pending": true
+    },
+    "Richard Wolf": {
+      "sent": 24,
+      "bounced": 2,
+      "pending": true
+    },
+    "Deltex": {
+      "sent": 0,
+      "bounced": 0,
+      "suspended": true
+    },
+    "American Surgical": {
+      "sent": 0,
+      "bounced": 0,
+      "suspended": false
     }
   },
-  "trend": {
-    "labels": [
-      "第1周",
-      "第2周",
-      "第3周",
-      "第4周",
-      "第5周",
-      "第6周",
-      "第7周",
-      "第8周",
-      "第9周",
-      "第10周",
-      "第11周",
-      "第12周",
-      "第13周",
-      "第14周",
-      "第15周",
-      "第16周"
-    ],
-    "crm": [
-      0,
-      0,
-      0,
-      1,
-      10,
-      18,
-      74,
-      89,
-      112,
-      107,
-      100,
-      160,
-      206,
-      248
-    ],
-    "countries": 37,
-    "geo": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      2,
-      3,
-      3,
-      3,
-      3,
-      4,
-      5,
-      6,
-      6,
-      6,
-      6
-    ],
-    "clicks": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58,
-      58
-    ],
-    "dealerEmails": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      47,
-      0,
-      111,
-      163,
-      340
+  "bouncedEmails": {
+    "recent": [
+      {
+        "email": "regina@arbor.lv",
+        "country": "🇱🇻",
+        "source": "RW",
+        "date": "2026-06-24"
+      },
+      {
+        "email": "konov@mte-bg.com",
+        "country": "🇧🇬",
+        "source": "RW",
+        "date": "2026-06-24"
+      },
+      {
+        "email": "ventas@avansalud.com",
+        "country": "🇲🇽",
+        "source": "Reconnect重发",
+        "date": "2026-06-24"
+      }
     ]
-  },
-  "milestones": [
-    {
-      "name": "官网上线 · 9个核心页面 · CE/MDR合规",
-      "status": "done"
-    },
-    {
-      "name": "产品目录V3.0 · 72张产品图 · 自主完成",
-      "status": "done"
-    },
-    {
-      "name": "HTKD OEM能力矩阵V1.2 · 5/19",
-      "status": "done"
-    },
-    {
-      "name": "YouTube工厂视频第1条 · 5/20",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第2篇 · Sealing Cap · Medium+LinkedIn",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第3篇 · Fascial Closure · Medium 5/25",
-      "status": "done"
-    },
-    {
-      "name": "YouTube视频第2条 · Sealing Cap · 5/26",
-      "status": "done"
-    },
-    {
-      "name": "Dashboard自动化 · GitHub JSON方案 · 5/28",
-      "status": "done"
-    },
-    {
-      "name": "飞书CRM迁移+每日自动同步 · 5/28",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第4篇 · 6/2发布",
-      "status": "done"
-    },
-    {
-      "name": "W1经销商开发 · 47封邮件 · 6/3-6/7",
-      "status": "done"
-    },
-    {
-      "name": "GEO文章第5篇 · vNOTES指南 · 6/5审稿",
-      "status": "done"
-    },
-    {
-      "name": "W2经销商开发 · 111封邮件 · 6/8-6/14",
-      "status": "done"
-    },
-    {
-      "name": "YouTube视频第4条 · vNOTES · 6/11发布",
-      "status": "done"
-    },
-    {
-      "name": "三条产线Catalog完成 · 妇产+普外+心外 · 单品+产线+总catalog",
-      "status": "done"
-    },
-    {
-      "name": "LinkedIn 48位联系人开发手册V2",
-      "status": "done"
-    },
-    {
-      "name": "首单签约目标：2026年Q3",
-      "status": "warn"
-    },
-    {
-      "name": "GEO文章 ≥25篇",
-      "status": "pend",
-      "progress": "6/25"
-    },
-    {
-      "name": "AI Agent Level 1 · 自动生成+发布文章",
-      "status": "pend"
-    },
-    {
-      "name": "商标注册 · 紧急",
-      "status": "warn"
-    },
-    {
-      "name": "W3经销商开发 · 340封邮件 · Reconnect模板+V4官网验证法",
-      "status": "done"
-    },
-    {
-      "name": "GEO第6篇文章 · 已发布 · GEO重启",
-      "status": "done"
-    }
-  ],
-  "risks": [
-    {
-      "level": "red",
-      "title": "aeromedsurgical.com Google零收录",
-      "detail": "网站已上线但Google完全未索引，等待Winnie授权检查robots.txt+提交GSC"
-    },
-    {
-      "level": "red",
-      "title": "商标未注册 · 已出现相似品牌",
-      "detail": "风险升级 · 需老板立即拍板 · 预算约¥25,000"
-    },
-    {
-      "level": "yellow",
-      "title": "V4官网验证法退信率26.7%",
-      "detail": "优于V1-V3但非早期3.3%假象，小公司分销商页邮箱可能过时，需优先中大型公司"
-    },
-    {
-      "level": "green",
-      "title": "5个积极回复 · 回复率1.66%",
-      "detail": "Luca Fusco🇮🇹(L3电话)/Shlomi Levi🇮🇱/Trion Pharma🇮🇳/Ulukağan🇹🇷(LinkedIn)/Virtual Ports🇮🇱"
-    },
-    {
-      "level": "green",
-      "title": "42位LinkedIn新联系人待录入CRM",
-      "detail": "含伊拉克/英国等新市场医生，扩展KOL网络"
-    }
-  ],
-  "investment": {
-    "items": [
-      {
-        "name": "4月 AI工具（Claude + Perplexity）",
-        "amount": "¥233"
-      },
-      {
-        "name": "5月 AI工具（含超量使用）",
-        "amount": "¥1,030"
-      },
-      {
-        "name": "域名 aeromedsurgical.com",
-        "amount": "¥260"
-      },
-      {
-        "name": "SiteGround托管",
-        "amount": "已含"
-      },
-      {
-        "name": "目录/拍照/建站",
-        "amount": "¥0 · 自主完成"
-      }
-    ],
-    "total": "¥1,523",
-    "revenue": "¥0 · 暂无签约订单"
-  },
-  "deliverables": [
-    "官网9页 + Insights模块上线",
-    "CE/MDR合规全站更新",
-    "产品基准卡V1.5.3",
-    "OEM能力矩阵V1.2",
-    "GEO关键词矩阵V2.1 · 48个关键词",
-    "产品图库 · 72张 · 自主拍摄",
-    "产品目录V3.0 · 自主设计",
-    "YouTube工厂视频第1条",
-    "YouTube视频第2条 · Sealing Cap",
-    "GEO第4篇文章 · 6/2发布",
-    "内部看板 + 演示看板上线（自动版）",
-    "CRM · 206位客户 · 37国",
-    "W2经销商开发 · 111封邮件 · 6/8-6/13",
-    "三条产线Catalog · 妇产+普外+心外 · 单品+产线+总catalog",
-    "LinkedIn 48位联系人开发手册V2",
-    "W3经销商开发 · 82封Reconnect+V4邮件",
-    "GEO第6篇文章 · 已发布 · GEO重启",
-    "V4官网验证法 · 30封发送 · 三大数据源"
-  ],
-  "events": {
-    "thisWeek": [
-      "6/22 经销商开发82封发送(Reconnect+V4官网验证法)，5个积极回复",
-      "GEO第6篇文章已发布，GEO工作本周重启",
-      "42位LinkedIn新联系人待录入CRM",
-      "V4官网验证法：Deltex/American Surgical/Coloplast三大数据源",
-      "Al Danah Medical🇶🇦域名变更已重发",
-      "CPP Budapest🇭🇺 Gergely Jancsó OOO至6/24"
-    ],
-    "nextWeek": [
-      "6/24跟进CPP Budapest Gergely Jancsó",
-      "Luca Fusco电话会议",
-      "继续V4官网验证法邮件发送(第6批)",
-      "42位LinkedIn联系人录入CRM",
-      "GEO文章继续生产",
-      "aeromedsurgical.com零收录问题修复"
-    ],
-    "bossDecisions": [
-      "🔴 商标注册——紧急 · 已出现相似品牌 · 预算约¥25,000 · 建议立即启动",
-      "沙特SFDA注册路径：Rami询盘进入合同阶段时需确认AL Salima持证 vs HTKD自己申请"
-    ]
-  },
-  "agentWork": {
-    "week": "2026.06.22-06.28",
-    "dealerDev": "W3完成82封邮件(Reconnect+V4官网验证法)，5个积极回复，V4退信率26.7%",
-    "contentProduction": "GEO第6篇已发布，GEO本周重启",
-    "intelligence": "da Vinci SureForm30 FDA安全警报 | CONMED退出GI外科 | EU MDR 2026/977强制NB认证",
-    "crmSync": "42位LinkedIn新联系人待录入，CRM将更新至248人"
-  },
-  "risk": {
-    "overdueFollowups": 6,
-    "criticalOverdue": "L2+ 6人待转化，Rami(L3)等回复",
-    "eudamed": "🔴 2026-11-28 EUDAMED四模块强制生效，需确认HTKD UDI+注册状态",
-    "lowConversion": "L2+转化率2.9%，206个L1-L2需持续筛选推进"
-  },
-  "linkedin48": {
-    "total": 90,
-    "gradeA": 19,
-    "gradeB": 15,
-    "gradeC": 5,
-    "gradeD": 9,
-    "topCountries": [
-      {
-        "country": "India",
-        "count": 13,
-        "gradeA": 7
-      },
-      {
-        "country": "USA",
-        "count": 7,
-        "gradeA": 0
-      },
-      {
-        "country": "Italy",
-        "count": 5,
-        "gradeA": 1
-      },
-      {
-        "country": "Saudi",
-        "count": 3,
-        "gradeA": 1
-      },
-      {
-        "country": "UK",
-        "count": 3,
-        "gradeA": 3
-      },
-      {
-        "country": "Germany",
-        "count": 2,
-        "gradeA": 1
-      },
-      {
-        "country": "Australia",
-        "count": 2,
-        "gradeA": 0
-      },
-      {
-        "country": "Egypt",
-        "count": 2,
-        "gradeA": 0
-      },
-      {
-        "country": "Korea",
-        "count": 1,
-        "gradeA": 0
-      },
-      {
-        "country": "Japan",
-        "count": 1,
-        "gradeA": 0
-      },
-      {
-        "country": "UAE",
-        "count": 1,
-        "gradeA": 0
-      },
-      {
-        "country": "Tunisia",
-        "count": 1,
-        "gradeA": 0
-      }
-    ],
-    "note": "原有48位 + 42位新LinkedIn联系人待录入（含伊拉克/英国医生）"
-  },
-  "activeClients": 5,
-  "activeClientsNote": "5个积极回复：Luca Fusco🇮🇹/Shlomi Levi🇮🇱/Trion Pharma🇮🇳/Ulukağan🇹🇷/Virtual Ports🇮🇱",
-  "crm_total": 206,
-  "crm_l1": 200,
-  "crm_l2": 5,
-  "crm_l3": 1,
-  "crm_l4": 0,
-  "crm_l5": 0,
-  "crm_frozen": 1,
-  "crm_countries": 37,
-  "crm_hospital": 140,
-  "crm_kol": 56,
-  "crm_distributor": 15,
-  "crm_date": "2026-06-14",
-  "crm_top_countries": [
-    {
-      "name": "沙特",
-      "count": 35
-    },
-    {
-      "name": "意大利",
-      "count": 27
-    },
-    {
-      "name": "印度",
-      "count": 24
-    },
-    {
-      "name": "美国",
-      "count": 14
-    },
-    {
-      "name": "土耳其",
-      "count": 11
-    },
-    {
-      "name": "埃及",
-      "count": 11
-    },
-    {
-      "name": "英国",
-      "count": 10
-    },
-    {
-      "name": "阿联酋",
-      "count": 8
-    },
-    {
-      "name": "西班牙",
-      "count": 7
-    },
-    {
-      "name": "巴西",
-      "count": 4
-    },
-    {
-      "name": "罗马尼亚",
-      "count": 4
-    },
-    {
-      "name": "法国",
-      "count": 4
-    },
-    {
-      "name": "日本",
-      "count": 4
-    },
-    {
-      "name": "马来西亚",
-      "count": 3
-    },
-    {
-      "name": "比利时",
-      "count": 3
-    }
-  ],
-  "gsc": {
-    "date": "2026-06-03",
-    "period": "7d",
-    "clicks": 7,
-    "impressions": 67,
-    "ctr": 10.4,
-    "avg_position": 30.3,
-    "top_pages": [
-      {
-        "url": "/",
-        "clicks": 6,
-        "impressions": 10
-      },
-      {
-        "url": "/about/",
-        "clicks": 1,
-        "impressions": 22
-      },
-      {
-        "url": "/products/",
-        "clicks": 0,
-        "impressions": 24
-      }
-    ],
-    "top_countries": [
-      {
-        "country": "USA",
-        "clicks": 4,
-        "impressions": 51
-      },
-      {
-        "country": "Italy",
-        "clicks": 1,
-        "impressions": 3
-      },
-      {
-        "country": "Spain",
-        "clicks": 1,
-        "impressions": 1
-      },
-      {
-        "country": "Malaysia",
-        "clicks": 1,
-        "impressions": 1
-      },
-      {
-        "country": "Canada",
-        "clicks": 0,
-        "impressions": 3
-      }
-    ],
-    "indexed_pages": 13
-  },
-  "industryNews": [
-    {
-      "date": "6/3",
-      "category": "竞品召回",
-      "title": "da Vinci X/Xi Class 2召回扩大至2781台",
-      "detail": "FDA确认，螺丝松动可能导致臂组件分离，涉及全球多个国家"
-    },
-    {
-      "date": "6/6",
-      "category": "竞品召回",
-      "title": "da Vinci 5 Class 2召回（12台）",
-      "detail": "软件P1.2.1导致双控制台配置下UI崩溃"
-    },
-    {
-      "date": "6/7",
-      "category": "市场动态",
-      "title": "达芬奇5香港首台装机",
-      "detail": "直观复星宣布，全球已安装1400+台，12800+医生使用"
-    },
-    {
-      "date": "6/9",
-      "category": "市场动态",
-      "title": "Medtronic Hugo新增妇科/普外科适应症",
-      "detail": "Hugo RAS扩展适应症，与da Vinci竞争加剧"
-    },
-    {
-      "date": "6/11",
-      "category": "市场动态",
-      "title": "CONMED退出GI外科业务",
-      "detail": "聚焦核心业务，利好AeroMed等专注MIS的品牌"
-    },
-    {
-      "date": "6/11",
-      "category": "技术进展",
-      "title": "土耳其Liv医院推广单孔达芬奇SP",
-      "detail": "多科室应用，疤痕更少，恢复更快"
-    },
-    {
-      "date": "6/12",
-      "category": "竞品警报",
-      "title": "da Vinci SureForm30 FDA安全警报",
-      "detail": "吻合器问题，临床使用需注意"
-    },
-    {
-      "date": "6/14",
-      "category": "法规",
-      "title": "EU MDR 2026/977强制NB认证周期规范",
-      "detail": "2027-02生效，利好CE认证效率"
-    }
-  ]
+  }
 }
