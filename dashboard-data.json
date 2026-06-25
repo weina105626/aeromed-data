@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-24T18:30:00+08:00",
+  "lastUpdated": "2026-06-25T09:00:00+08:00",
   "summary": {
-    "totalSent": 458,
-    "bounced": 118,
-    "bounceRate": 25.8,
-    "delivered": 340,
+    "totalSent": 478,
+    "bounced": 130,
+    "bounceRate": 27.2,
+    "delivered": 348,
     "positiveReplies": 6,
-    "replyRate": 1.76,
+    "replyRate": 1.72,
     "countries": 39,
     "contacts": 248,
     "activeLeads": 6
@@ -44,7 +44,7 @@
     },
     {
       "week": "W6",
-      "sent": 30,
+      "sent": 50,
       "bounced": 6,
       "replies": 1
     }
@@ -102,8 +102,9 @@
   "dataSource": {
     "Coloplast": {
       "sent": 23,
-      "bounced": 0,
-      "pending": true
+      "bounced": 12,
+      "pending": false,
+      "suspended": true
     },
     "Richard Wolf": {
       "sent": 24,
@@ -119,6 +120,21 @@
       "sent": 0,
       "bounced": 0,
       "suspended": false
+    },
+    "Intuitive Surgical": {
+      "sent": 3,
+      "bounced": 0,
+      "pending": true
+    },
+    "Terumo ME": {
+      "sent": 14,
+      "bounced": 0,
+      "pending": true
+    },
+    "Diagnomatic": {
+      "sent": 3,
+      "bounced": 0,
+      "pending": true
     }
   },
   "bouncedEmails": {
