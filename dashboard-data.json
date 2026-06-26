@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-25T09:00:00+08:00",
+  "lastUpdated": "2026-06-26T12:30:00+08:00",
   "summary": {
-    "totalSent": 478,
+    "totalSent": 498,
     "bounced": 130,
-    "bounceRate": 27.2,
-    "delivered": 348,
+    "bounceRate": 26.1,
+    "delivered": 368,
     "positiveReplies": 6,
-    "replyRate": 1.72,
+    "replyRate": 1.2,
     "countries": 39,
     "contacts": 248,
     "activeLeads": 6
