@@ -1,162 +1,277 @@
 {
-  "lastUpdated": "2026-06-26T12:30:00+08:00",
-  "summary": {
-    "totalSent": 498,
-    "bounced": 130,
-    "bounceRate": 26.1,
-    "delivered": 368,
-    "positiveReplies": 6,
-    "replyRate": 1.2,
-    "countries": 39,
-    "contacts": 248,
-    "activeLeads": 6
-  },
-  "weeklyData": [
-    {
-      "week": "W1",
-      "sent": 15,
-      "bounced": 0,
-      "replies": 0
-    },
-    {
-      "week": "W2",
-      "sent": 52,
-      "bounced": 12,
-      "replies": 0
-    },
-    {
-      "week": "W3",
-      "sent": 102,
-      "bounced": 37,
-      "replies": 0
-    },
-    {
-      "week": "W4",
-      "sent": 133,
-      "bounced": 43,
-      "replies": 1
-    },
-    {
-      "week": "W5",
-      "sent": 126,
-      "bounced": 20,
-      "replies": 4
-    },
-    {
-      "week": "W6",
-      "sent": 50,
-      "bounced": 6,
-      "replies": 1
-    }
-  ],
-  "positiveReplies": [
-    {
-      "name": "Luca Fusco",
-      "company": "LCF Service S.r.l.",
-      "country": "🇮🇹 Italy",
-      "date": "2026-06-22",
-      "status": "Phone call scheduled",
-      "interest": "General MIS"
-    },
-    {
-      "name": "Shlomi Levi",
-      "company": "Shlomi Levi Medical",
-      "country": "🇮🇱 Israel",
-      "date": "2026-06-22",
-      "status": "Catalog sent",
-      "interest": "General MIS"
-    },
-    {
-      "name": "Trion Pharma",
-      "company": "Trion Pharma",
-      "country": "🇮🇳 India",
-      "date": "2026-06-22",
-      "status": "Winnie self-replied",
-      "interest": "Multi-line"
-    },
-    {
-      "name": "Ulukağan Özoğul",
-      "company": "N/A",
-      "country": "🇹🇷 Turkey",
-      "date": "2026-06-22",
-      "status": "LinkedIn outreach",
-      "interest": "Catalog requested"
-    },
-    {
-      "name": "Virtual Ports",
-      "company": "Virtual Ports",
-      "country": "🇮🇱 Israel",
-      "date": "2026-06-22",
-      "status": "Tovy forwarded CEO/BD",
-      "interest": "General MIS"
-    },
-    {
-      "name": "Rick Coury",
-      "company": "Apex Medical",
-      "country": "🇳🇦 Namibia",
-      "date": "2026-06-24",
-      "status": "Catalog sent, Winnie follow-up",
-      "interest": "Hand-assisted series"
-    }
-  ],
-  "dataSource": {
-    "Coloplast": {
-      "sent": 23,
-      "bounced": 12,
-      "pending": false,
-      "suspended": true
-    },
-    "Richard Wolf": {
-      "sent": 24,
-      "bounced": 2,
-      "pending": true
-    },
-    "Deltex": {
-      "sent": 0,
-      "bounced": 0,
-      "suspended": true
-    },
-    "American Surgical": {
-      "sent": 0,
-      "bounced": 0,
-      "suspended": false
-    },
-    "Intuitive Surgical": {
-      "sent": 3,
-      "bounced": 0,
-      "pending": true
-    },
-    "Terumo ME": {
-      "sent": 14,
-      "bounced": 0,
-      "pending": true
-    },
-    "Diagnomatic": {
-      "sent": 3,
-      "bounced": 0,
-      "pending": true
+  "last_updated": "2026-07-12T11:30:00+08:00",
+  "data_source": "AMS CRM 2.0 + LinkedIn CRM + 全球经销商开发 + 飞书CRM多维表格",
+  "crm_summary": {
+    "total_contacts": 307,
+    "kols": 210,
+    "distributors": 90,
+    "decision_makers": 7,
+    "notes": "飞书CRM精选(100人) + LinkedIn CRM精准KOL(217人) + 全球经销商(90家)，含部分重叠",
+    "pipeline": {
+      "new_lead": 250,
+      "contacted": 49,
+      "replied": 8,
+      "engaged": 1,
+      "qualified": 0,
+      "opportunity": 0
     }
   },
-  "bouncedEmails": {
-    "recent": [
-      {
-        "email": "regina@arbor.lv",
-        "country": "🇱🇻",
-        "source": "RW",
-        "date": "2026-06-24"
+  "email_campaign": {
+    "cumulative_sent": 784,
+    "cumulative_bounced": 214,
+    "bounce_rate": "27.3%",
+    "effective_delivered": 570,
+    "total_replies": 9,
+    "reply_rate": "1.58%",
+    "converted_to_winnie": 7,
+    "strategy": "LinkedIn KOL定向 + 全球经销商开发 + Brevo SMTP双发件人",
+    "weekly_sent": 190,
+    "weekly_bounced": 34,
+    "weekly_note": "本周Brevo双轨并行：LinkedIn KOL定向100封 + 全球经销商90家，退信率待Brevo后台确认",
+    "batches": {
+      "W1_6/1-6/7": {
+        "sent": 52,
+        "template": "模板A(info@)"
       },
-      {
-        "email": "konov@mte-bg.com",
-        "country": "🇧🇬",
-        "source": "RW",
-        "date": "2026-06-24"
+      "W2_6/8-6/14": {
+        "sent": 131,
+        "template": "V2.0短模板(info@)"
       },
-      {
-        "email": "ventas@avansalud.com",
-        "country": "🇲🇽",
-        "source": "Reconnect重发",
-        "date": "2026-06-24"
+      "W3_6/15-6/21": {
+        "sent": 142,
+        "template": "CEO直发+Reconnect"
+      },
+      "W4_6/22-6/28": {
+        "sent": 173,
+        "template": "Reconnect+新数据源"
+      },
+      "W5_6/29-7/5": {
+        "sent": 96,
+        "template": "MedOne(废)+LinkedIn定向+Gmail手动",
+        "bounced": 45
+      },
+      "W6_7/6-7/12": {
+        "sent": 190,
+        "template": "LinkedIn KOL定向(100) + 全球经销商(90)",
+        "bounced_estimated": 34,
+        "bounce_rate_est": "~18%"
       }
+    }
+  },
+  "ceo_email_test_results": {
+    "date": "2026-06-20~21",
+    "method": "双格式测试(firstname.lastname + f.lastname)",
+    "verified_working": [
+      {
+        "company": "Lap Tech 🇲🇾",
+        "format": "both"
+      },
+      {
+        "company": "PT ENDO 🇮🇩",
+        "format": "both"
+      },
+      {
+        "company": "RBGM 🇵🇭",
+        "format": "both"
+      },
+      {
+        "company": "LM Instruments 🇨🇴",
+        "format": "both"
+      },
+      {
+        "company": "MEDIM 🇵🇱",
+        "format": "both"
+      },
+      {
+        "company": "Neomedica 🇲🇿",
+        "format": "confirmed"
+      },
+      {
+        "company": "Getz Vietnam 🇻🇳",
+        "format": "lamnguyen@ (not nguyenthilam@)"
+      }
+    ],
+    "verified_bounced": [
+      {
+        "company": "SEI Medical 🇹🇭",
+        "format": "both bounced"
+      },
+      {
+        "company": "Future Medical 🇹🇭",
+        "format": "both bounced"
+      },
+      {
+        "company": "idsMED Thailand 🇹🇭",
+        "format": "both bounced"
+      },
+      {
+        "company": "E. Tamussino 🇧🇷",
+        "format": "both bounced"
+      },
+      {
+        "company": "Endomed 🇦🇷",
+        "format": "g.castagnini@ bounced"
+      },
+      {
+        "company": "Medhold 🇿🇦",
+        "format": "matthew.stephens@ bounced"
+      },
+      {
+        "company": "SofMedica Group 🇷🇴🇬🇷🇧🇬🇨🇾🇭🇺",
+        "format": "待观察(Intuitive 5国分销)"
+      },
+      {
+        "company": "M.S. Jacovides Hellas 🇬🇷🇨🇾",
+        "format": "待观察(40年OR专家)"
+      }
+    ],
+    "insight": "🇹🇭泰国3家全灭—可能未启用个人邮箱或人名不符"
+  },
+  "dealer_development": {
+    "key_lead": {
+      "company": "Muscat Pharmacy LLC",
+      "contact": "Rajender Kumar",
+      "country": "🇴🇲 阿曼",
+      "status": "🔴 最高优先级-待发认证+产品清单",
+      "source": "6/26确认，阿曼#1分销商",
+      "note": "$2.5-5亿营收，884员工，66门店，代理J&J/Bayer/GE/Siemens等200+品牌"
+    },
+    "hot_leads": [
+      {
+        "company": "LCF Service S.r.l.",
+        "contact": "Luca Fusco",
+        "country": "🇮🇹",
+        "status": "已约电话会议",
+        "source": "6/17老客户回复"
+      },
+      {
+        "company": "Apex Medical",
+        "contact": "Rick Coury",
+        "country": "🇳🇦",
+        "status": "手助系列感兴趣",
+        "source": "6/24回复"
+      },
+      {
+        "company": "Virtual Ports",
+        "contact": "Tovy",
+        "country": "🇮🇱",
+        "status": "转发CEO/BD",
+        "source": "6月回复"
+      },
+      {
+        "company": "Ulukağan Özoğul",
+        "contact": "LinkedIn主动联系",
+        "country": "🇹🇷",
+        "status": "要catalog",
+        "source": "LinkedIn主动询盘"
+      },
+      {
+        "company": "Medifine Corporation",
+        "contact": "韩国经销商",
+        "country": "🇰🇷",
+        "status": "高匹配-待回复",
+        "source": "7/8发送，匹配度9.5/10"
+      }
+    ],
+    "geo_status": {
+      "articles_published_2026": 7,
+      "current_week": "GEO暂停-等待网站收录修复",
+      "ai_citations": "0/15",
+      "gsc_clicks": 7,
+      "gsc_impressions": 56,
+      "google_indexing": "零收录-待修复",
+      "notes": "AI可见度连续8周零引用，网站零收录仍是最大瓶颈"
+    },
+    "distributor_count": 90,
+    "distributor_countries": 40,
+    "distributor_note": "全球经销商已发90家，覆盖40+国家，以中小型区域经销商为主"
+  },
+  "departments_distribution": {
+    "Gastroenterology / GI": 78,
+    "Cardiac / Cardiothoracic": 45,
+    "General Surgery": 35,
+    "Robotic Surgery": 25,
+    "Oncology": 18,
+    "Colorectal": 15,
+    "OB/GYN": 10,
+    "Urology": 8,
+    "Thoracic": 6,
+    "Anesthesiology": 4,
+    "Breast": 3
+  },
+  "top_countries": [
+    {
+      "country": "🇮🇳 印度",
+      "count": 45,
+      "breakdown": "KOL:35 | Dist:8 | Dec:2"
+    },
+    {
+      "country": "🇮🇹 意大利",
+      "count": 32,
+      "breakdown": "KOL:28 | Dist:4"
+    },
+    {
+      "country": "🇸🇦 沙特",
+      "count": 28,
+      "breakdown": "KOL:18 | Dist:7 | Dec:3"
+    },
+    {
+      "country": "🇬🇧 英国",
+      "count": 25,
+      "breakdown": "KOL:20 | Dist:5"
+    },
+    {
+      "country": "🇺🇸 美国",
+      "count": 24,
+      "breakdown": "KOL:20 | Dist:3 | Dec:1"
+    },
+    {
+      "country": "🇦🇪 阿联酋",
+      "count": 15,
+      "breakdown": "KOL:8 | Dist:7"
+    },
+    {
+      "country": "🇹🇷 土耳其",
+      "count": 14,
+      "breakdown": "KOL:4 | Dist:10"
+    },
+    {
+      "country": "🇪🇬 埃及",
+      "count": 14,
+      "breakdown": "KOL:10 | Dist:4"
+    },
+    {
+      "country": "🇪🇸 西班牙",
+      "count": 12,
+      "breakdown": "KOL:4 | Dist:8"
+    },
+    {
+      "country": "🇩🇪 德国",
+      "count": 11,
+      "breakdown": "KOL:5 | Dist:6"
+    },
+    {
+      "country": "🇧🇷 巴西",
+      "count": 10,
+      "breakdown": "KOL:3 | Dist:7"
+    },
+    {
+      "country": "🇿🇦 南非",
+      "count": 10,
+      "breakdown": "KOL:2 | Dist:8"
+    }
+  ],
+  "industry_intelligence": {
+    "last_searched": "2026-07-12",
+    "weekly_summary_count": 37,
+    "recent_alerts": [
+      "🔴 达芬奇SP Q1手术量+68%，单孔机器人加速渗透",
+      "🔴 全球首例人形机器人远程手术成功 | Nature封面",
+      "🟡 国产手术机器人出海爆发，欧洲加速渗透",
+      "🟡 MDCG 2026-4发布，SSCP责任转移制造商",
+      "🟡 康基等离子刀头市占率40%，集采扩围",
+      "🟡 EUDAMED存量器械11/28截止（剩4.5月）",
+      "🟢 机器人TAMIS专家共识发布，单孔入路扩容"
     ]
   }
 }
