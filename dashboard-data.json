@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-07-12T11:30:00+08:00",
+  "last_updated": "2026-07-26T12:00:00+08:00",
   "data_source": "AMS CRM 2.0 + LinkedIn CRM + 全球经销商开发 + 飞书CRM多维表格",
   "crm_summary": {
-    "total_contacts": 307,
-    "kols": 210,
-    "distributors": 90,
-    "decision_makers": 7,
-    "notes": "飞书CRM精选(100人) + LinkedIn CRM精准KOL(217人) + 全球经销商(90家)，含部分重叠",
+    "total_contacts": 330,
+    "kols": 217,
+    "distributors": 200,
+    "decision_makers": 12,
+    "notes": "飞书CRM精选(111人) + LinkedIn CRM精准KOL(217人) + 全球经销商开发(200+家)，含部分重叠",
     "pipeline": {
-      "new_lead": 250,
-      "contacted": 49,
-      "replied": 8,
-      "engaged": 1,
+      "new_lead": 270,
+      "contacted": 60,
+      "replied": 11,
+      "engaged": 3,
       "qualified": 0,
       "opportunity": 0
     }
   },
   "email_campaign": {
-    "cumulative_sent": 784,
-    "cumulative_bounced": 214,
+    "cumulative_sent": 914,
+    "cumulative_bounced": 250,
     "bounce_rate": "27.3%",
-    "effective_delivered": 570,
-    "total_replies": 9,
-    "reply_rate": "1.58%",
-    "converted_to_winnie": 7,
+    "effective_delivered": 664,
+    "total_replies": 11,
+    "reply_rate": "1.66%",
+    "converted_to_winnie": 8,
     "strategy": "LinkedIn KOL定向 + 全球经销商开发 + Brevo SMTP双发件人",
-    "weekly_sent": 190,
-    "weekly_bounced": 34,
-    "weekly_note": "本周Brevo双轨并行：LinkedIn KOL定向100封 + 全球经销商90家，退信率待Brevo后台确认",
+    "weekly_sent": 130,
+    "weekly_bounced": 30,
+    "weekly_note": "本周6批次密集发送：Batch04(31)+Batch05(32)+Replacement19(19)+SmallMarket35(35)+CENordic6(6)+SEAEECALATAM(7)",
     "batches": {
       "W1_6/1-6/7": {
         "sent": 52,
@@ -55,6 +55,16 @@
         "template": "LinkedIn KOL定向(100) + 全球经销商(90)",
         "bounced_estimated": 34,
         "bounce_rate_est": "~18%"
+      },
+      "W7_7/13-7/19": {
+        "sent": 165,
+        "template": "GCC+CE+Global多批次",
+        "note": "GCC35+CE35+Global27+Batch04部分"
+      },
+      "W8_7/20-7/26": {
+        "sent": 130,
+        "template": "SOP单产品切入 + 首封无附件",
+        "note": "Batch04(31)+Batch05(32)+Replace19+SM35+CENordic6+SEA7"
       }
     }
   },
@@ -175,16 +185,16 @@
     ],
     "geo_status": {
       "articles_published_2026": 7,
-      "current_week": "GEO暂停-等待网站收录修复",
+      "current_week": "GEO暂停-网站零收录待修复",
       "ai_citations": "0/15",
       "gsc_clicks": 7,
       "gsc_impressions": 56,
       "google_indexing": "零收录-待修复",
-      "notes": "AI可见度连续8周零引用，网站零收录仍是最大瓶颈"
+      "notes": "AI可见度连续8周零引用，网站零收录仍是最大瓶颈；选题推荐：TaTME套装/Lone Star替代/伤口保护器防肿瘤种植"
     },
-    "distributor_count": 90,
-    "distributor_countries": 40,
-    "distributor_note": "全球经销商已发90家，覆盖40+国家，以中小型区域经销商为主"
+    "distributor_count": 200,
+    "distributor_countries": 65,
+    "distributor_note": "全球经销商已发200+家，覆盖65+国家，以中小型区域经销商为主"
   },
   "departments_distribution": {
     "Gastroenterology / GI": 78,
@@ -262,16 +272,16 @@
     }
   ],
   "industry_intelligence": {
-    "last_searched": "2026-07-12",
-    "weekly_summary_count": 37,
+    "last_searched": "2026-07-24",
+    "weekly_summary_count": 44,
     "recent_alerts": [
-      "🔴 达芬奇SP Q1手术量+68%，单孔机器人加速渗透",
-      "🔴 全球首例人形机器人远程手术成功 | Nature封面",
-      "🟡 国产手术机器人出海爆发，欧洲加速渗透",
-      "🟡 MDCG 2026-4发布，SSCP责任转移制造商",
-      "🟡 康基等离子刀头市占率40%，集采扩围",
-      "🟡 EUDAMED存量器械11/28截止（剩4.5月）",
-      "🟢 机器人TAMIS专家共识发布，单孔入路扩容"
+      "🔴 TaTME肿瘤学安全性获RCT验证，CRM阴性率更优",
+      "🔴 直觉外科发布AI五层框架 + 跨州远程手术演示",
+      "🟡 MDCG发布UDI分配立场文件：制造商始终为责任主体",
+      "🟡 MDUFA VI承诺信达成，审批提速+AI/数字健康扩容",
+      "🟡 NVIDIA医疗物理模拟框架发布，机器人研发效率跃迁",
+      "🟡 强生Polyphonic AI基金公布，开放数字生态信号",
+      "🟢 新兴市场微创普及加速，非洲THD肛肠技术落地"
     ]
   }
 }
