@@ -1,33 +1,34 @@
 {
-  "last_updated": "2026-07-26T12:00:00+08:00",
-  "data_source": "AMS CRM 2.0 + LinkedIn CRM + 全球经销商开发 + 飞书CRM多维表格",
+  "last_updated": "2026-08-02T11:10:00+08:00",
+  "data_source": "AMS CRM 2.0 + LinkedIn CRM + 经销商开发追踪表 (W31更新)",
   "crm_summary": {
-    "total_contacts": 330,
-    "kols": 217,
-    "distributors": 200,
-    "decision_makers": 12,
-    "notes": "飞书CRM精选(111人) + LinkedIn CRM精准KOL(217人) + 全球经销商开发(200+家)，含部分重叠",
+    "total_contacts": 225,
+    "kols": 161,
+    "distributors": 45,
+    "decision_makers": 7,
+    "academic": 2,
+    "notes": "含CRM 2.0 + LinkedIn CRM + 全球经销商储备8批280家",
     "pipeline": {
-      "new_lead": 270,
-      "contacted": 60,
-      "replied": 11,
-      "engaged": 3,
+      "new_lead": 169,
+      "contacted": 40,
+      "replied": 3,
+      "engaged": 1,
       "qualified": 0,
       "opportunity": 0
     }
   },
   "email_campaign": {
-    "cumulative_sent": 914,
-    "cumulative_bounced": 250,
-    "bounce_rate": "27.3%",
-    "effective_delivered": 664,
-    "total_replies": 11,
-    "reply_rate": "1.66%",
-    "converted_to_winnie": 8,
-    "strategy": "LinkedIn KOL定向 + 全球经销商开发 + Brevo SMTP双发件人",
-    "weekly_sent": 130,
-    "weekly_bounced": 30,
-    "weekly_note": "本周6批次密集发送：Batch04(31)+Batch05(32)+Replacement19(19)+SmallMarket35(35)+CENordic6(6)+SEAEECALATAM(7)",
+    "cumulative_sent": 964,
+    "cumulative_bounced": 180,
+    "bounce_rate": "30.3%",
+    "effective_delivered": 414,
+    "total_replies": 8,
+    "reply_rate": "1.93%",
+    "converted_to_winnie": 7,
+    "strategy": "LinkedIn KOL定向+Brevo SMTP(7/3起)",
+    "weekly_sent": 50,
+    "weekly_bounced": 0,
+    "weekly_note": "W31: Batch5/6/7小国+中亚+欧洲微型国家50封，覆盖42国",
     "batches": {
       "W1_6/1-6/7": {
         "sent": 52,
@@ -48,23 +49,14 @@
       "W5_6/29-7/5": {
         "sent": 96,
         "template": "MedOne(废)+LinkedIn定向+Gmail手动",
-        "bounced": 45
+        "bounced": 45,
+        "bounce_rate": "46.9%"
       },
-      "W6_7/6-7/12": {
-        "sent": 190,
-        "template": "LinkedIn KOL定向(100) + 全球经销商(90)",
-        "bounced_estimated": 34,
-        "bounce_rate_est": "~18%"
-      },
-      "W7_7/13-7/19": {
-        "sent": 165,
-        "template": "GCC+CE+Global多批次",
-        "note": "GCC35+CE35+Global27+Batch04部分"
-      },
-      "W8_7/20-7/26": {
-        "sent": 130,
-        "template": "SOP单产品切入 + 首封无附件",
-        "note": "Batch04(31)+Batch05(32)+Replace19+SM35+CENordic6+SEA7"
+      "W31_7/27-8/2": {
+        "sent": 50,
+        "template": "Batch5/6/7小国+中亚+欧洲微型国家定向",
+        "countries": 42,
+        "note": "非洲9/亚太6/拉美10/欧洲27"
       }
     }
   },
@@ -174,114 +166,119 @@
         "country": "🇹🇷",
         "status": "要catalog",
         "source": "LinkedIn主动询盘"
-      },
-      {
-        "company": "Medifine Corporation",
-        "contact": "韩国经销商",
-        "country": "🇰🇷",
-        "status": "高匹配-待回复",
-        "source": "7/8发送，匹配度9.5/10"
       }
     ],
     "geo_status": {
       "articles_published_2026": 7,
-      "current_week": "GEO暂停-网站零收录待修复",
+      "current_week": "GEO暂停-等待网站收录修复",
       "ai_citations": "0/15",
       "gsc_clicks": 7,
       "gsc_impressions": 56,
       "google_indexing": "零收录-待修复",
-      "notes": "AI可见度连续8周零引用，网站零收录仍是最大瓶颈；选题推荐：TaTME套装/Lone Star替代/伤口保护器防肿瘤种植"
+      "notes": "AI可见度连续7周零引用，网站零收录仍是最大瓶颈"
     },
-    "distributor_count": 200,
-    "distributor_countries": 65,
-    "distributor_note": "全球经销商已发200+家，覆盖65+国家，以中小型区域经销商为主"
+    "weekly_highlights": {
+      "week": "W31 (7/27-8/2)",
+      "total_sent": 50,
+      "key_regions": "欧洲微型国家(27)+非洲(9)+亚太(6)+拉美(10)",
+      "new_countries": [
+        "蒙古",
+        "柬埔寨",
+        "汤加",
+        "科索沃",
+        "直布罗陀",
+        "苏里南",
+        "波黑",
+        "卢森堡",
+        "冰岛",
+        "乌拉圭",
+        "科特迪瓦",
+        "多哥",
+        "刚果(布)",
+        "喀麦隆",
+        "塞浦路斯",
+        "乌兹别克斯坦",
+        "吉尔吉斯斯坦",
+        "摩尔多瓦"
+      ],
+      "pending_resend": "Batch567 Resend (25封，dry-run已完成，待发)"
+    }
   },
   "departments_distribution": {
-    "Gastroenterology / GI": 78,
-    "Cardiac / Cardiothoracic": 45,
-    "General Surgery": 35,
-    "Robotic Surgery": 25,
-    "Oncology": 18,
-    "Colorectal": 15,
-    "OB/GYN": 10,
-    "Urology": 8,
-    "Thoracic": 6,
-    "Anesthesiology": 4,
-    "Breast": 3
+    "GI / Gastroenterology": 53,
+    "Cardiac / Cardiothoracic": 26,
+    "Colorectal": 12,
+    "General Surgery": 10,
+    "Oncology": 10,
+    "Robotic Surgery": 8,
+    "OB/GYN": 6,
+    "Urology": 5,
+    "Breast": 4,
+    "Thoracic": 2,
+    "HPB": 1
   },
   "top_countries": [
     {
       "country": "🇮🇳 印度",
-      "count": 45,
-      "breakdown": "KOL:35 | Dist:8 | Dec:2"
+      "count": 31,
+      "breakdown": "KOL:25 | Dist:4 | Dec:2"
     },
     {
       "country": "🇮🇹 意大利",
-      "count": 32,
-      "breakdown": "KOL:28 | Dist:4"
-    },
-    {
-      "country": "🇸🇦 沙特",
-      "count": 28,
-      "breakdown": "KOL:18 | Dist:7 | Dec:3"
+      "count": 25,
+      "breakdown": "KOL:22 | Dist:3"
     },
     {
       "country": "🇬🇧 英国",
-      "count": 25,
-      "breakdown": "KOL:20 | Dist:5"
+      "count": 18,
+      "breakdown": "KOL:15 | Dist:3"
     },
     {
       "country": "🇺🇸 美国",
-      "count": 24,
-      "breakdown": "KOL:20 | Dist:3 | Dec:1"
+      "count": 18,
+      "breakdown": "KOL:16 | Dist:1 | Dec:1"
     },
     {
-      "country": "🇦🇪 阿联酋",
-      "count": 15,
-      "breakdown": "KOL:8 | Dist:7"
-    },
-    {
-      "country": "🇹🇷 土耳其",
-      "count": 14,
-      "breakdown": "KOL:4 | Dist:10"
+      "country": "🇸🇦 沙特",
+      "count": 13,
+      "breakdown": "KOL:4 | Dist:6 | Dec:3"
     },
     {
       "country": "🇪🇬 埃及",
-      "count": 14,
-      "breakdown": "KOL:10 | Dist:4"
+      "count": 9,
+      "breakdown": "KOL:4 | Dist:4 | Dec:1"
     },
     {
-      "country": "🇪🇸 西班牙",
-      "count": 12,
-      "breakdown": "KOL:4 | Dist:8"
+      "country": "🇹🇷 土耳其",
+      "count": 9,
+      "breakdown": "KOL:2 | Dist:7"
     },
     {
       "country": "🇩🇪 德国",
-      "count": 11,
-      "breakdown": "KOL:5 | Dist:6"
+      "count": 5,
+      "breakdown": "KOL:5"
     },
     {
-      "country": "🇧🇷 巴西",
-      "count": 10,
-      "breakdown": "KOL:3 | Dist:7"
+      "country": "🇦🇺 澳洲",
+      "count": 4,
+      "breakdown": "KOL:2 | Dist:2"
     },
     {
-      "country": "🇿🇦 南非",
-      "count": 10,
-      "breakdown": "KOL:2 | Dist:8"
+      "country": "🇰🇷 韩国",
+      "count": 4,
+      "breakdown": "Dist:3 | Aca:1"
     }
   ],
   "industry_intelligence": {
-    "last_searched": "2026-07-24",
-    "weekly_summary_count": 44,
+    "last_searched": "2026-07-05",
+    "weekly_summary_count": 30,
     "recent_alerts": [
-      "🔴 TaTME肿瘤学安全性获RCT验证，CRM阴性率更优",
-      "🔴 直觉外科发布AI五层框架 + 跨州远程手术演示",
-      "🟡 MDCG发布UDI分配立场文件：制造商始终为责任主体",
-      "🟡 MDUFA VI承诺信达成，审批提速+AI/数字健康扩容",
-      "🟡 NVIDIA医疗物理模拟框架发布，机器人研发效率跃迁",
-      "🟡 强生Polyphonic AI基金公布，开放数字生态信号",
-      "🟢 新兴市场微创普及加速，非洲THD肛肠技术落地"
+      "🔴 瑞士UDI 7/1全面强制，Swissdamed独立申报",
+      "🔴 术锐机器人科创板IPO获受理，欧洲市场已破局",
+      "🟡 国产手术机器人前5月出口近200亿元",
+      "🟡 美敦力+卡尔史托斯战略合作",
+      "🟡 EUDAMED存量器械11/28截止",
+      "🟡 全球首例远程vNOTES手术成功"
     ]
   }
 }
